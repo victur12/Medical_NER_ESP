@@ -1,0 +1,436 @@
+{
+    "0": [
+        "diabetes"
+    ],
+    "1": [
+        "c\u00e1ncer de mama",
+        "c\u00e1ncer"
+    ],
+    "2": [
+        "hipertensi\u00f3n arterial",
+        "arterias"
+    ],
+    "3": [
+        "depresi\u00f3n",
+        "trastorno del estado de \u00e1nimo"
+    ],
+    "4": [
+        "asma",
+        "bronquios",
+        "tos",
+        "asma"
+    ],
+    "5": [
+        "tos"
+    ],
+    "6": [
+        "migra\u00f1a",
+        "dolor de cabeza",
+        "n\u00e1useas",
+        "v\u00f3mitos"
+    ],
+    "7": [
+        "enfermedad inflamatoria intestinal",
+        "enfermedad de crohn",
+        "colitis",
+        "diarrea"
+    ],
+    "8": [
+        "anemia",
+        "anemia"
+    ],
+    "9": [],
+    "10": [
+        "hipotiroidismo",
+        "tiroides",
+        "depresi\u00f3n"
+    ],
+    "11": [
+        "glaucoma",
+        "dolor de cabeza"
+    ],
+    "12": [],
+    "13": [
+        "enfermedad de parkinson"
+    ],
+    "14": [
+        "esquizofrenia"
+    ],
+    "15": [],
+    "16": [
+        "arterias",
+        "coraz\u00f3n"
+    ],
+    "17": [
+        "ansiedad"
+    ],
+    "18": [
+        "osteoporosis",
+        "huesos",
+        "calcio",
+        "huesos"
+    ],
+    "19": [
+        "enfermedad renal cr\u00f3nica",
+        "ri\u00f1ones"
+    ],
+    "20": [
+        "artritis",
+        "articulaciones",
+        "articulaciones"
+    ],
+    "21": [
+        "trastorno de ansiedad generalizada",
+        "ansiedad",
+        "ansiedad"
+    ],
+    "22": [
+        "enfermedad de alzheimer",
+        "enfermedad de alzheimer"
+    ],
+    "23": [
+        "endometriosis",
+        "\u00fatero"
+    ],
+    "24": [
+        "trastorno bipolar",
+        "trastorno del estado de \u00e1nimo",
+        "depresi\u00f3n"
+    ],
+    "25": [
+        "piel",
+        "piel",
+        "piel",
+        "piel"
+    ],
+    "26": [
+        "enfermedad de lyme",
+        "fiebre"
+    ],
+    "27": [],
+    "28": [
+        "esclerosis m\u00faltiple"
+    ],
+    "29": [
+        "bulimia",
+        "trastorno de la alimentaci\u00f3n",
+        "v\u00f3mitos"
+    ],
+    "30": [
+        "m\u00fasculos"
+    ],
+    "31": [
+        "piel",
+        "fiebre"
+    ],
+    "32": [
+        "est\u00f3mago",
+        "n\u00e1useas",
+        "v\u00f3mitos",
+        "diarrea",
+        "fiebre"
+    ],
+    "33": [
+        "melanoma",
+        "c\u00e1ncer",
+        "piel",
+        "piel",
+        "c\u00e1ncer"
+    ],
+    "34": [
+        "neumon\u00eda",
+        "pulmones",
+        "fiebre",
+        "tos"
+    ],
+    "35": [],
+    "36": [
+        "gastritis",
+        "est\u00f3mago",
+        "n\u00e1useas",
+        "v\u00f3mitos"
+    ],
+    "37": [
+        "trastorno de la personalidad"
+    ],
+    "38": [
+        "fibromialgia",
+        "m\u00fasculos"
+    ],
+    "39": [
+        "enfermedad de crohn",
+        "enfermedad inflamatoria intestinal",
+        "diarrea"
+    ],
+    "40": [],
+    "41": [
+        "tiroides",
+        "tiroides",
+        "tiroides"
+    ],
+    "42": [
+        "insuficiencia card\u00edaca",
+        "coraz\u00f3n",
+        "coraz\u00f3n"
+    ],
+    "43": [
+        "asma",
+        "bronquios",
+        "tos",
+        "asma"
+    ],
+    "44": [
+        "diabetes mellitus"
+    ],
+    "45": [
+        "depresi\u00f3n",
+        "trastorno del estado de \u00e1nimo"
+    ],
+    "46": [
+        "ansiedad"
+    ],
+    "47": [
+        "pulmones",
+        "tos"
+    ],
+    "48": [],
+    "49": [
+        "enfermedad de parkinson"
+    ],
+    "50": [
+        "trastorno de estr\u00e9s agudo",
+        "ansiedad"
+    ],
+    "51": [
+        "enfermedad de huntington",
+        "enfermedad de huntington"
+    ],
+    "52": [
+        "migra\u00f1a",
+        "dolor de cabeza",
+        "n\u00e1useas",
+        "v\u00f3mitos"
+    ],
+    "53": [
+        "intestino delgado",
+        "diarrea"
+    ],
+    "54": [
+        "anemia"
+    ],
+    "55": [],
+    "56": [
+        "hipertensi\u00f3n arterial",
+        "arterias"
+    ],
+    "57": [
+        "osteoporosis",
+        "huesos",
+        "calcio"
+    ],
+    "58": [
+        "enfermedad de alzheimer",
+        "enfermedad de alzheimer"
+    ],
+    "59": [
+        "trastorno bipolar",
+        "trastorno del estado de \u00e1nimo",
+        "depresi\u00f3n"
+    ],
+    "60": [
+        "endometriosis",
+        "\u00fatero"
+    ],
+    "61": [
+        "artritis",
+        "articulaciones",
+        "articulaciones"
+    ],
+    "62": [
+        "esquizofrenia"
+    ],
+    "63": [
+        "enfermedad inflamatoria intestinal",
+        "enfermedad de crohn",
+        "colitis",
+        "diarrea"
+    ],
+    "64": [
+        "glaucoma"
+    ],
+    "65": [
+        "trastorno de la conducta alimentaria",
+        "anorexia",
+        "bulimia"
+    ],
+    "66": [
+        "enfermedad renal cr\u00f3nica",
+        "ri\u00f1ones"
+    ],
+    "67": [
+        "trastorno de ansiedad generalizada",
+        "ansiedad"
+    ],
+    "68": [
+        "tos"
+    ],
+    "69": [],
+    "70": [
+        "trastorno de estr\u00e9s postraum\u00e1tico"
+    ],
+    "71": [
+        "h\u00edgado",
+        "h\u00edgado",
+        "h\u00edgado"
+    ],
+    "72": [
+        "trastorno l\u00edmite de la personalidad"
+    ],
+    "73": [
+        "esclerosis m\u00faltiple",
+        "esclerosis m\u00faltiple"
+    ],
+    "74": [
+        "trastorno de sue\u00f1o",
+        "insomnio"
+    ],
+    "75": [
+        "enfermedad de lyme",
+        "fiebre"
+    ],
+    "76": [],
+    "77": [
+        "ves\u00edcula biliar",
+        "ves\u00edcula biliar",
+        "ves\u00edcula biliar",
+        "n\u00e1useas",
+        "v\u00f3mitos",
+        "fiebre",
+        "ves\u00edcula biliar"
+    ],
+    "78": [
+        "trastorno de p\u00e1nico",
+        "trastorno de ansiedad"
+    ],
+    "79": [
+        "nervios"
+    ],
+    "80": [
+        "trastorno de estr\u00e9s agudo",
+        "ansiedad"
+    ],
+    "81": [
+        "enfermedad de huntington",
+        "enfermedad de huntington"
+    ],
+    "82": [
+        "migra\u00f1a",
+        "dolor de cabeza",
+        "n\u00e1useas",
+        "v\u00f3mitos"
+    ],
+    "83": [
+        "intestino delgado",
+        "diarrea"
+    ],
+    "84": [
+        "anemia"
+    ],
+    "85": [],
+    "86": [
+        "hipertensi\u00f3n arterial",
+        "arterias"
+    ],
+    "87": [
+        "osteoporosis",
+        "huesos",
+        "calcio"
+    ],
+    "88": [
+        "enfermedad de alzheimer",
+        "enfermedad de alzheimer"
+    ],
+    "89": [
+        "trastorno bipolar",
+        "trastorno del estado de \u00e1nimo",
+        "depresi\u00f3n"
+    ],
+    "90": [
+        "endometriosis",
+        "\u00fatero"
+    ],
+    "91": [
+        "artritis",
+        "articulaciones",
+        "articulaciones"
+    ],
+    "92": [
+        "esquizofrenia"
+    ],
+    "93": [
+        "enfermedad inflamatoria intestinal",
+        "enfermedad de crohn",
+        "colitis",
+        "diarrea"
+    ],
+    "94": [
+        "asma",
+        "tos"
+    ],
+    "95": [
+        "diabetes mellitus"
+    ],
+    "96": [
+        "depresi\u00f3n",
+        "trastorno del estado de \u00e1nimo"
+    ],
+    "97": [
+        "arterias",
+        "coraz\u00f3n"
+    ],
+    "98": [],
+    "99": [
+        "tos"
+    ],
+    "100": [
+        "trastorno del espectro autista"
+    ],
+    "101": [
+        "enfermedad de parkinson"
+    ],
+    "102": [
+        "enfermedad renal cr\u00f3nica",
+        "ri\u00f1ones",
+        "piel"
+    ],
+    "103": [
+        "obesidad"
+    ],
+    "104": [
+        "tiroides",
+        "tiroides",
+        "tiroides",
+        "piel"
+    ],
+    "105": [
+        "trastorno de ansiedad generalizada",
+        "trastorno de ansiedad"
+    ],
+    "106": [
+        "c\u00e1ncer",
+        "c\u00e1ncer"
+    ],
+    "107": [
+        "trastorno de estr\u00e9s postraum\u00e1tico",
+        "trastorno de ansiedad"
+    ],
+    "108": [
+        "ves\u00edcula biliar",
+        "ves\u00edcula biliar",
+        "ves\u00edcula biliar",
+        "n\u00e1useas",
+        "v\u00f3mitos",
+        "fiebre",
+        "ves\u00edcula biliar"
+    ]
+}

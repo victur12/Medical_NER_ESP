@@ -1,0 +1,947 @@
+{"label":"Medicina","pattern":"\u00c1CIDO ACETILSALIC\u00cdLICO"}
+{"label":"Medicina","pattern":"BUPRENORFINA"}
+{"label":"Medicina","pattern":"CAPSAICINA"}
+{"label":"Medicina","pattern":"CLONIXINATO DE LISINA"}
+{"label":"Medicina","pattern":"DEXMEDETOMIDINA"}
+{"label":"Medicina","pattern":"DEXTROPROPOXIFENO "}
+{"label":"Medicina","pattern":"ETOFENAMATO"}
+{"label":"Medicina","pattern":"FENTANILO"}
+{"label":"Medicina","pattern":"IBUPROFENO"}
+{"label":"Medicina","pattern":"KETOROLACO "}
+{"label":"Medicina","pattern":"METAMIZOL S\u00d3DICO"}
+{"label":"Medicina","pattern":"MORFINA"}
+{"label":"Medicina","pattern":"NALBUFINA"}
+{"label":"Medicina","pattern":"OXICODONA"}
+{"label":"Medicina","pattern":"PARACETAMOL"}
+{"label":"Medicina","pattern":"TRAMADOL"}
+{"label":"Medicina","pattern":"TRAMADOL-PARACETAMOL"}
+{"label":"Medicina","pattern":"ATROPINA"}
+{"label":"Medicina","pattern":"BUPIVACA\u00cdNA "}
+{"label":"Medicina","pattern":"CISATRACURIO"}
+{"label":"Medicina","pattern":"DESFLURANO"}
+{"label":"Medicina","pattern":"ETOMIDATO"}
+{"label":"Medicina","pattern":"FLUNITRAZEPAM"}
+{"label":"Medicina","pattern":"ISOFLURANO"}
+{"label":"Medicina","pattern":"KETAMINA"}
+{"label":"Medicina","pattern":"LIDOCA\u00cdNA"}
+{"label":"Medicina","pattern":"EPINEFRINA"}
+{"label":"Medicina","pattern":"MIDAZOLAM "}
+{"label":"Medicina","pattern":"PRILOCA\u00cdNA"}
+{"label":"Medicina","pattern":"FELIPRESINA"}
+{"label":"Medicina","pattern":"PROPOFOL"}
+{"label":"Medicina","pattern":"ROCURONIO"}
+{"label":"Medicina","pattern":"ROPIVACAINA"}
+{"label":"Medicina","pattern":"SEVOFLURANO"}
+{"label":"Medicina","pattern":"TIOPENTAL S\u00d3DICO"}
+{"label":"Medicina","pattern":"VECURONIO"}
+{"label":"Medicina","pattern":"ADENOSINA"}
+{"label":"Medicina","pattern":"ALPROSTADIL"}
+{"label":"Medicina","pattern":"ALTEPLASA "}
+{"label":"Medicina","pattern":"AMIODARONA"}
+{"label":"Medicina","pattern":"AMLODIPINO"}
+{"label":"Medicina","pattern":"CANDESART\u00c1N CILEXETILO-HIDROCLOROTIAZIDA  "}
+{"label":"Medicina","pattern":"CAPTOPRIL "}
+{"label":"Medicina","pattern":"CILOSTAZOL "}
+{"label":"Medicina","pattern":"CLOPIDOGREL "}
+{"label":"Medicina","pattern":"DIAZ\u00d3XIDO "}
+{"label":"Medicina","pattern":"DIGOXINA"}
+{"label":"Medicina","pattern":"DILTIAZEM "}
+{"label":"Medicina","pattern":"DIPIRIDAMOL "}
+{"label":"Medicina","pattern":"DOBUTAMINA "}
+{"label":"Medicina","pattern":"DOPAMINA"}
+{"label":"Medicina","pattern":"EFEDRINA"}
+{"label":"Medicina","pattern":"ENALAPRIL O LISINOPRIL O RAMIPRIL "}
+{"label":"Medicina","pattern":"EPINEFRINA"}
+{"label":"Medicina","pattern":"ESMOLOL"}
+{"label":"Medicina","pattern":"ESTREPTOQUINASA"}
+{"label":"Medicina","pattern":"FELODIPINO"}
+{"label":"Medicina","pattern":"HIDRALAZINA"}
+{"label":"Medicina","pattern":"IBUPROFENO"}
+{"label":"Medicina","pattern":"ISOSORBIDA "}
+{"label":"Medicina","pattern":"ISOSORBIDA DINITRATO DE "}
+{"label":"Medicina","pattern":"ISOSORBIDA MONONITRATO DE  "}
+{"label":"Medicina","pattern":"LEVOSIMENDAN "}
+{"label":"Medicina","pattern":"LIDOCA\u00cdNA"}
+{"label":"Medicina","pattern":"LOSART\u00c1N"}
+{"label":"Medicina","pattern":"METILDOPA"}
+{"label":"Medicina","pattern":"METOPROLOL "}
+{"label":"Medicina","pattern":"MILRINONA"}
+{"label":"Medicina","pattern":"NIFEDIPINO "}
+{"label":"Medicina","pattern":"NITROPRUSIATO DE SODIO "}
+{"label":"Medicina","pattern":"NOREPINEFRINA "}
+{"label":"Medicina","pattern":"PENTOXIFILINA"}
+{"label":"Medicina","pattern":"POTASIO SALES DE"}
+{"label":"Medicina","pattern":"PRAZOSINA"}
+{"label":"Medicina","pattern":"PROPAFENONA"}
+{"label":"Medicina","pattern":"PROPRANOLOL"}
+{"label":"Medicina","pattern":"QUINIDINA "}
+{"label":"Medicina","pattern":"TELMISART\u00c1N "}
+{"label":"Medicina","pattern":"TENECTEPLASA"}
+{"label":"Medicina","pattern":"TIROFIBAN"}
+{"label":"Medicina","pattern":"TRINITRATO DE GLICERILO  "}
+{"label":"Medicina","pattern":"TRINITRATO DE GLICERILO  "}
+{"label":"Medicina","pattern":"VALSART\u00c1N "}
+{"label":"Medicina","pattern":"VERAPAMILO "}
+{"label":"Medicina","pattern":"ACARBOSA"}
+{"label":"Medicina","pattern":"AGALSIDASA ALFA"}
+{"label":"Medicina","pattern":"AGALSIDASA BETA "}
+{"label":"Medicina","pattern":"ALGLUCOSIDASA ALFA "}
+{"label":"Medicina","pattern":"ATORVASTATINA"}
+{"label":"Medicina","pattern":"BEZAFIBRATO "}
+{"label":"Medicina","pattern":"CALCIO "}
+{"label":"Medicina","pattern":"CALCITONINA "}
+{"label":"Medicina","pattern":"CALCITRIOL"}
+{"label":"Medicina","pattern":"CARBONATO DE CALCIO  VITAMINA D"}
+{"label":"Medicina","pattern":"DEFLAZACORT"}
+{"label":"Medicina","pattern":"DESMOPRESINA"}
+{"label":"Medicina","pattern":"DEXAMETASONA"}
+{"label":"Medicina","pattern":"EZETIMIBA"}
+{"label":"Medicina","pattern":"FLUDROCORTISONA"}
+{"label":"Medicina","pattern":"GALSULFASA"}
+{"label":"Medicina","pattern":"GLIBENCLAMIDA"}
+{"label":"Medicina","pattern":"GONADOTROFINA CORI\u00d3NICA "}
+{"label":"Medicina","pattern":"IDURSULFASA"}
+{"label":"Medicina","pattern":"IMIGLUCERASA"}
+{"label":"Medicina","pattern":"INSULINA GLARGINA"}
+{"label":"Medicina","pattern":"INSULINA HUMANA "}
+{"label":"Medicina","pattern":"INSULINA LISPRO"}
+{"label":"Medicina","pattern":"INSULINA LISPRO LISPRO PROTAMINA "}
+{"label":"Medicina","pattern":"LANREOTIDO "}
+{"label":"Medicina","pattern":"LARONIDASA "}
+{"label":"Medicina","pattern":"LEVOTIROXINA"}
+{"label":"Medicina","pattern":"METFORMINA "}
+{"label":"Medicina","pattern":"METILPREDNISOLONA"}
+{"label":"Medicina","pattern":"OCTREOTIDA"}
+{"label":"Medicina","pattern":"PIOGLITAZONA"}
+{"label":"Medicina","pattern":"PRAVASTATINA"}
+{"label":"Medicina","pattern":"PREDNISOLONA "}
+{"label":"Medicina","pattern":"PREDNISONA"}
+{"label":"Medicina","pattern":"ROSIGLITAZONA"}
+{"label":"Medicina","pattern":"SOMATROPINA"}
+{"label":"Medicina","pattern":"TALIGLUCERASA ALFA"}
+{"label":"Medicina","pattern":"TESTOSTERONA "}
+{"label":"Medicina","pattern":"TIAMAZOL "}
+{"label":"Medicina","pattern":"VELAGLUCERASA ALFA "}
+{"label":"Medicina","pattern":"\u00c1CIDO RETINOICO "}
+{"label":"Medicina","pattern":"ALANTOINA Y ALQUITR\u00c1N DE HULLA  "}
+{"label":"Medicina","pattern":"ALANTOINA ALQUITR\u00c1N DE HULLA Y CLIOQUINOL  "}
+{"label":"Medicina","pattern":"ALIBOUR"}
+{"label":"Medicina","pattern":"BA\u00d1O COLOIDE"}
+{"label":"Medicina","pattern":"BENCILO"}
+{"label":"Medicina","pattern":"BENZOILO"}
+{"label":"Medicina","pattern":"CLIOQUINOL "}
+{"label":"Medicina","pattern":"FLUOCINOLONA"}
+{"label":"Medicina","pattern":"FLUOROURACILO"}
+{"label":"Medicina","pattern":"HIDROCORTISONA"}
+{"label":"Medicina","pattern":"IMIQUIMOD "}
+{"label":"Medicina","pattern":"ISOTRETINOINA"}
+{"label":"Medicina","pattern":"METOXALENO "}
+{"label":"Medicina","pattern":"MICONAZOL "}
+{"label":"Medicina","pattern":"\u00d3XIDO DE ZINC "}
+{"label":"Medicina","pattern":"PIMECROLIMUS "}
+{"label":"Medicina","pattern":"PODOFILINA"}
+{"label":"Medicina","pattern":"SULFADIAZINA DE PLATA"}
+{"label":"Medicina","pattern":"ABACAVIR  "}
+{"label":"Medicina","pattern":"ABACAVIR-LAMIVUDINA "}
+{"label":"Medicina","pattern":"ABACAVIR-LAMIVUDINA-ZIDOVUDINA "}
+{"label":"Medicina","pattern":"ACICLOVIR "}
+{"label":"Medicina","pattern":"ADEFOVIR  "}
+{"label":"Medicina","pattern":"ALBENDAZOL  "}
+{"label":"Medicina","pattern":"AMFOTERICINA B O ANFOTERICINA B "}
+{"label":"Medicina","pattern":"AMIKACINA "}
+{"label":"Medicina","pattern":"AMOXICILINA "}
+{"label":"Medicina","pattern":"AMOXICILINA \u2013 ACIDO CLAVUL\u00c1NICO "}
+{"label":"Medicina","pattern":"AMPICILINA "}
+{"label":"Medicina","pattern":"ATAZANAVIR  "}
+{"label":"Medicina","pattern":"AZITROMICINA "}
+{"label":"Medicina","pattern":"BENCILPENICILINA BENZAT\u00cdNICA COMPUESTA "}
+{"label":"Medicina","pattern":"BENCILPENICILINA PROCA\u00cdNICA CON BENCILPENICILINA CRISTALINA "}
+{"label":"Medicina","pattern":"BENCILPENICILINA S\u00d3DICA CRISTALINA "}
+{"label":"Medicina","pattern":"BENZATINA BENCILPENICILINA  "}
+{"label":"Medicina","pattern":"CASPOFUNGINA "}
+{"label":"Medicina","pattern":"CEFALOTINA  "}
+{"label":"Medicina","pattern":"CEFEPIMA "}
+{"label":"Medicina","pattern":"CEFOTAXIMA "}
+{"label":"Medicina","pattern":"CEFTAZIDIMA "}
+{"label":"Medicina","pattern":"CEFTRIAXONA "}
+{"label":"Medicina","pattern":"CEFUROXIMA "}
+{"label":"Medicina","pattern":"CIPROFLOXACINO "}
+{"label":"Medicina","pattern":"CLARITROMICINA  "}
+{"label":"Medicina","pattern":"CLINDAMICINA "}
+{"label":"Medicina","pattern":"CLORANFENICOL "}
+{"label":"Medicina","pattern":"CLOROQUINA "}
+{"label":"Medicina","pattern":"DAPSONA "}
+{"label":"Medicina","pattern":"DARUNAVIR "}
+{"label":"Medicina","pattern":"DARUNAVIR  COBICISTAT"}
+{"label":"Medicina","pattern":"DICLOXACILINA "}
+{"label":"Medicina","pattern":"DIDANOSINA "}
+{"label":"Medicina","pattern":"DOLUTEGRAVIR "}
+{"label":"Medicina","pattern":"DOLUTEGRAVIR  ABACAVIR  LAMIVUDINA "}
+{"label":"Medicina","pattern":"DOXICICLINA "}
+{"label":"Medicina","pattern":"EFAVIRENZ "}
+{"label":"Medicina","pattern":"EMTRICITABINA "}
+{"label":"Medicina","pattern":"EMTRICITABINA-TENOFOVIR "}
+{"label":"Medicina","pattern":"ENFUVIRTIDA "}
+{"label":"Medicina","pattern":"ENTECAVIR "}
+{"label":"Medicina","pattern":"ETRAVIRINA "}
+{"label":"Medicina","pattern":"ELVITEGRAVIR  COBICISTAT  EMTRICITABINA  TENOFOVIR "}
+{"label":"Medicina","pattern":"ERITROMICINA  "}
+{"label":"Medicina","pattern":"ESTAVUDINA "}
+{"label":"Medicina","pattern":"ESTREPTOMICINA "}
+{"label":"Medicina","pattern":"ETAMBUTOL  "}
+{"label":"Medicina","pattern":"ETRAVIRINA "}
+{"label":"Medicina","pattern":"FLUCONAZOL "}
+{"label":"Medicina","pattern":"FOSAMPRENAVIR "}
+{"label":"Medicina","pattern":"GANCICLOVIR "}
+{"label":"Medicina","pattern":"GENTAMICINA "}
+{"label":"Medicina","pattern":"GENTAMICINA-COL\u00c1GENO"}
+{"label":"Medicina","pattern":"GLECAPREVIRPIBRENTASVIR"}
+{"label":"Medicina","pattern":"IMIPENEM Y CILASTATINA "}
+{"label":"Medicina","pattern":"INDINAVIR  "}
+{"label":"Medicina","pattern":"ISONIAZIDA "}
+{"label":"Medicina","pattern":"ISONIAZIDA Y RIFAMPICINA "}
+{"label":"Medicina","pattern":"ISONIAZIDA RIFAMPICINA PIRAZINAMIDA ETAMBUTOL "}
+{"label":"Medicina","pattern":"ITRACONAZOL  "}
+{"label":"Medicina","pattern":"KETOCONAZOL  "}
+{"label":"Medicina","pattern":"LAMIVUDINA "}
+{"label":"Medicina","pattern":"LAMIVUDINA  ZIDOVUDINA "}
+{"label":"Medicina","pattern":"LEVOFLOXACINO "}
+{"label":"Medicina","pattern":"LINEZOLID "}
+{"label":"Medicina","pattern":"LOPINAVIR-RITONAVIR "}
+{"label":"Medicina","pattern":"MARAVIROC  "}
+{"label":"Medicina","pattern":"MEROPENEM  "}
+{"label":"Medicina","pattern":"METENAMINA "}
+{"label":"Medicina","pattern":"METRONIDAZOL "}
+{"label":"Medicina","pattern":"MOXIFLOXACINO  "}
+{"label":"Medicina","pattern":"NEOMICINA "}
+{"label":"Medicina","pattern":"NEVIRAPINA  "}
+{"label":"Medicina","pattern":"NISTATINA "}
+{"label":"Medicina","pattern":"NITAZOXANIDA "}
+{"label":"Medicina","pattern":"NITROFURANTO\u00cdNA  "}
+{"label":"Medicina","pattern":"OMBITASVIR PARITAPREVIR RITONAVIR Y DASABUVIR "}
+{"label":"Medicina","pattern":"OSELTAMIVIR "}
+{"label":"Medicina","pattern":"PENTAMIDINA  "}
+{"label":"Medicina","pattern":"PIPERACILINA-TAZOBACTAM "}
+{"label":"Medicina","pattern":"PIRAZINAMIDA "}
+{"label":"Medicina","pattern":"PIRIMETAMINA "}
+{"label":"Medicina","pattern":"PRAZICUANTEL  "}
+{"label":"Medicina","pattern":"PRIMAQUINA  "}
+{"label":"Medicina","pattern":"QUINFAMIDA  "}
+{"label":"Medicina","pattern":"RALTEGRAVIR  "}
+{"label":"Medicina","pattern":"RIBAVIRINA "}
+{"label":"Medicina","pattern":"RIFAMPICINA "}
+{"label":"Medicina","pattern":"RIFAMPICINA-ISONIAZIDA-PIRAZINAMIDA  "}
+{"label":"Medicina","pattern":"RIFAXIMINA "}
+{"label":"Medicina","pattern":"RITONAVIR "}
+{"label":"Medicina","pattern":"SAQUINAVIR "}
+{"label":"Medicina","pattern":"SOFOSBUVIR LEDIPASVIR"}
+{"label":"Medicina","pattern":"SOFOSBUVIR VELPATASVIR"}
+{"label":"Medicina","pattern":"TALIDOMIDA "}
+{"label":"Medicina","pattern":"TEICOPLANINA  "}
+{"label":"Medicina","pattern":"TENOFOVIR DISOPROXIL FUMARATO O TENOFOVIR "}
+{"label":"Medicina","pattern":"TETRACICLINA "}
+{"label":"Medicina","pattern":"TIGECICLINA  "}
+{"label":"Medicina","pattern":"TINIDAZOL "}
+{"label":"Medicina","pattern":"TIPRANAVIR "}
+{"label":"Medicina","pattern":"TRIMETOPRIMA Y SULFAMETOXAZOL "}
+{"label":"Medicina","pattern":"TRIMETOPRIMA-SULFAMETOXAZOL  "}
+{"label":"Medicina","pattern":"VALGANCICLOVIR  "}
+{"label":"Medicina","pattern":"VANCOMICINA  "}
+{"label":"Medicina","pattern":"VORICONAZOL  "}
+{"label":"Medicina","pattern":"ZANAMIVIR "}
+{"label":"Medicina","pattern":"ZIDOVUDINA "}
+{"label":"Medicina","pattern":"BETAMETASONA   "}
+{"label":"Medicina","pattern":"CLORFENAMINA   "}
+{"label":"Medicina","pattern":"CROMOGLICATO DE SODIO   "}
+{"label":"Medicina","pattern":"DIFENHIDRAMINA   "}
+{"label":"Medicina","pattern":"EPINASTINA "}
+{"label":"Medicina","pattern":"FEXOFENADINA   "}
+{"label":"Medicina","pattern":"FLUTICASONA   "}
+{"label":"Medicina","pattern":"HIDROCORTISONA   "}
+{"label":"Medicina","pattern":"HIDROXIZINA  "}
+{"label":"Medicina","pattern":"INMUNOGLOBULINA G NO MODIFICADA   "}
+{"label":"Medicina","pattern":"INMUNOGLOBULINA HUMANA   "}
+{"label":"Medicina","pattern":"INMUNOGLOBULINA HUMANA NORMAL SUBCUT\u00c1NEA   "}
+{"label":"Medicina","pattern":"KETOTIFENO  "}
+{"label":"Medicina","pattern":"LEVOCETIRIZINA   "}
+{"label":"Medicina","pattern":"LORATADINA  "}
+{"label":"Medicina","pattern":"MOMETASONA   "}
+{"label":"Medicina","pattern":"ACEITE DE RICINO  "}
+{"label":"Medicina","pattern":"\u00c1CIDO URSODEOXIC\u00d3LICO "}
+{"label":"Medicina","pattern":"ALUMINIO "}
+{"label":"Medicina","pattern":"ALUMINIO Y MAGNESIO "}
+{"label":"Medicina","pattern":"BISMUTO "}
+{"label":"Medicina","pattern":"BUTILHIOSCINA O HIOSCINA  "}
+{"label":"Medicina","pattern":"CINITAPRIDA  "}
+{"label":"Medicina","pattern":"FOSFATO Y CITRATO DE SODIO "}
+{"label":"Medicina","pattern":"GLICEROL "}
+{"label":"Medicina","pattern":"LACTULOSA "}
+{"label":"Medicina","pattern":"LIDOCA\u00cdNA - HIDROCORTISONA "}
+{"label":"Medicina","pattern":"LOPERAMIDA  "}
+{"label":"Medicina","pattern":"L-ORNITINA-L-ASPARTATO "}
+{"label":"Medicina","pattern":"MAGNESIO "}
+{"label":"Medicina","pattern":"MESALAZINA  "}
+{"label":"Medicina","pattern":"METOCLOPRAMIDA "}
+{"label":"Medicina","pattern":"OCTREOTIDA  "}
+{"label":"Medicina","pattern":"OMEPRAZOL O PANTOPRAZOL  "}
+{"label":"Medicina","pattern":"PANCREATINA "}
+{"label":"Medicina","pattern":"PANTOPRAZOL O RABEPRAZOL U OMEPRAZOL "}
+{"label":"Medicina","pattern":"PEGINTERFER\u00d3N ALFA"}
+{"label":"Medicina","pattern":"PINAVERIO "}
+{"label":"Medicina","pattern":"PL\u00c1NTAGO PSYLLIUM "}
+{"label":"Medicina","pattern":"POLIETILENGLICOL "}
+{"label":"Medicina","pattern":"POLIDOCANOL "}
+{"label":"Medicina","pattern":"RANITIDINA "}
+{"label":"Medicina","pattern":"RESINA DE COLESTIRAMINA "}
+{"label":"Medicina","pattern":"SEN\u00d3SIDOS A-B "}
+{"label":"Medicina","pattern":"SUCRALFATO "}
+{"label":"Medicina","pattern":"SULFASALAZINA  "}
+{"label":"Medicina","pattern":"TERLIPRESINA "}
+{"label":"Medicina","pattern":"Gineco-obstetricia"}
+{"label":"Medicina","pattern":"\u00c1CIDO ALENDR\u00d3NICO"}
+{"label":"Medicina","pattern":"\u00c1CIDO RISEDR\u00d3NICO "}
+{"label":"Medicina","pattern":"ATOSIB\u00c1N"}
+{"label":"Medicina","pattern":"BROMOCRIPTINA "}
+{"label":"Medicina","pattern":"CABERGOLINA "}
+{"label":"Medicina","pattern":"CARBETOCINA "}
+{"label":"Medicina","pattern":"CIPROTERONA-ETINILESTRADIOL"}
+{"label":"Medicina","pattern":"CLOMIFENO "}
+{"label":"Medicina","pattern":"CLORMADINONA "}
+{"label":"Medicina","pattern":"DANAZOL "}
+{"label":"Medicina","pattern":"DIENOGEST"}
+{"label":"Medicina","pattern":"DINOPROSTONA"}
+{"label":"Medicina","pattern":"ERGOMETRINA "}
+{"label":"Medicina","pattern":"ESTRADIOL DROSPIRENONA"}
+{"label":"Medicina","pattern":"ESTR\u00d3GENOS CONJUGADOS"}
+{"label":"Medicina","pattern":"ESTR\u00d3GENOS CONJUGADOS Y MEDROXIPROGESTERONA"}
+{"label":"Medicina","pattern":"FOLITROPINA ALFA "}
+{"label":"Medicina","pattern":"FOLITROPINA BETA"}
+{"label":"Medicina","pattern":"GONADOTROFINAS POSTMENOP\u00c1USICAS HUMANAS"}
+{"label":"Medicina","pattern":"INDOMETACINA "}
+{"label":"Medicina","pattern":"INMUNOGLOBULINA ANTI D"}
+{"label":"Medicina","pattern":"LUTROPINA ALFA "}
+{"label":"Medicina","pattern":"MEDROXIPROGESTERONA"}
+{"label":"Medicina","pattern":"METRONIDAZOL "}
+{"label":"Medicina","pattern":"MIFEPRISTONA "}
+{"label":"Medicina","pattern":"MISOPROSTOL"}
+{"label":"Medicina","pattern":"NISTATINA "}
+{"label":"Medicina","pattern":"NITROFURAL"}
+{"label":"Medicina","pattern":"ORCIPRENALINA "}
+{"label":"Medicina","pattern":"OXITOCINA"}
+{"label":"Medicina","pattern":"PROGESTERONA "}
+{"label":"Medicina","pattern":"RALOXIFENO "}
+{"label":"Medicina","pattern":"TIBOLONA"}
+{"label":"Medicina","pattern":"ACETILCISTE\u00cdNA"}
+{"label":"Medicina","pattern":"ATROPINA"}
+{"label":"Medicina","pattern":"CARB\u00d3N ACTIVADO"}
+{"label":"Medicina","pattern":"FLUMAZENIL "}
+{"label":"Medicina","pattern":"METILTIONINO CLORURO DE Azul de metileno"}
+{"label":"Medicina","pattern":"NALOXONA"}
+{"label":"Medicina","pattern":"NEOSTIGMINA"}
+{"label":"Medicina","pattern":"NICOTINA"}
+{"label":"Medicina","pattern":"PENICILAMINA"}
+{"label":"Medicina","pattern":"PROTAMINA"}
+{"label":"Enfermedad","pattern":"Diabetes mellitus"}
+{"label":"Enfermedad","pattern":"Hipertensi\u00f3n arterial"}
+{"label":"Enfermedad","pattern":"Obesidad"}
+{"label":"Enfermedad","pattern":"Influenza"}
+{"label":"Enfermedad","pattern":"Neumon\u00eda"}
+{"label":"Enfermedad","pattern":"Gastritis"}
+{"label":"Enfermedad","pattern":"Colitis"}
+{"label":"Enfermedad","pattern":"Dengue"}
+{"label":"Enfermedad","pattern":"Chikungunya"}
+{"label":"Enfermedad","pattern":"Zika"}
+{"label":"Enfermedad","pattern":"Hepatitis"}
+{"label":"Enfermedad","pattern":"Gripe"}
+{"label":"Enfermedad","pattern":"Tuberculosis"}
+{"label":"Enfermedad","pattern":"VIHSIDA"}
+{"label":"Enfermedad","pattern":"C\u00e1ncer"}
+{"label":"Enfermedad","pattern":"Enfermedad cardiovascular"}
+{"label":"Enfermedad","pattern":"Enfermedad renal cr\u00f3nica"}
+{"label":"Enfermedad","pattern":"Enfermedad pulmonar obstructiva cr\u00f3nica EPOC"}
+{"label":"Enfermedad","pattern":"Asma"}
+{"label":"Enfermedad","pattern":"Artritis"}
+{"label":"Enfermedad","pattern":"Osteoporosis"}
+{"label":"Enfermedad","pattern":"Anemia"}
+{"label":"Enfermedad","pattern":"Esquizofrenia"}
+{"label":"Enfermedad","pattern":"Trastorno bipolar"}
+{"label":"Enfermedad","pattern":"Depresi\u00f3n"}
+{"label":"Enfermedad","pattern":"Ansiedad"}
+{"label":"Enfermedad","pattern":"Trastornos de la alimentaci\u00f3n anorexia bulimia"}
+{"label":"Enfermedad","pattern":"Enfermedad de Alzheimer"}
+{"label":"Enfermedad","pattern":"Enfermedad de Parkinson"}
+{"label":"Enfermedad","pattern":"Autismo"}
+{"label":"Enfermedad","pattern":"S\u00edndrome de Down"}
+{"label":"Enfermedad","pattern":"Retinopat\u00eda diab\u00e9tica"}
+{"label":"Enfermedad","pattern":"Glaucoma"}
+{"label":"Enfermedad","pattern":"Cataratas"}
+{"label":"Enfermedad","pattern":"Enfermedad de Chagas"}
+{"label":"Enfermedad","pattern":"Leishmaniasis"}
+{"label":"Enfermedad","pattern":"Cisticercosis"}
+{"label":"Enfermedad","pattern":"Mal de Chagas"}
+{"label":"Enfermedad","pattern":"Enfermedad de Lyme"}
+{"label":"Enfermedad","pattern":"Sarna"}
+{"label":"Enfermedad","pattern":"Enfermedad de Hansen lepra"}
+{"label":"Enfermedad","pattern":"Brucelosis"}
+{"label":"Enfermedad","pattern":"Rickettsiosis"}
+{"label":"Enfermedad","pattern":"Fiebre Q"}
+{"label":"Enfermedad","pattern":"Fiebre manchada de las Monta\u00f1as Rocosas"}
+{"label":"Enfermedad","pattern":"Coccidioidomicosis"}
+{"label":"Enfermedad","pattern":"Histoplasmosis"}
+{"label":"Enfermedad","pattern":"Blastomicosis"}
+{"label":"Enfermedad","pattern":"Esquistosomiasis"}
+{"label":"Enfermedad","pattern":"Leptospirosis"}
+{"label":"Enfermedad","pattern":"Toxoplasmosis"}
+{"label":"Enfermedad","pattern":"Tripanosomiasis africana enfermedad del sue\u00f1o"}
+{"label":"Enfermedad","pattern":"Tripanosomiasis americana enfermedad de Chagas"}
+{"label":"Enfermedad","pattern":"Candidiasis"}
+{"label":"Enfermedad","pattern":"T\u00e9tanos"}
+{"label":"Enfermedad","pattern":"Rabia"}
+{"label":"Enfermedad","pattern":"S\u00edfilis"}
+{"label":"Enfermedad","pattern":"Gonorrea"}
+{"label":"Enfermedad","pattern":"Clamidia"}
+{"label":"Enfermedad","pattern":"Herpes genital"}
+{"label":"Enfermedad","pattern":"Tricomoniasis"}
+{"label":"Enfermedad","pattern":"Vaginosis bacteriana"}
+{"label":"Enfermedad","pattern":"Infecci\u00f3n por VIH"}
+{"label":"Enfermedad","pattern":"Enfermedades de transmisi\u00f3n sexual ETS"}
+{"label":"Enfermedad","pattern":"Enfermedad de Kawasaki"}
+{"label":"Enfermedad","pattern":"Fibromialgia"}
+{"label":"Enfermedad","pattern":"Enfermedad inflamatoria intestinal"}
+{"label":"Enfermedad","pattern":"Esclerosis m\u00faltiple"}
+{"label":"Enfermedad","pattern":"Enfermedad de Crohn"}
+{"label":"Enfermedad","pattern":"Enfermedad cel\u00edaca"}
+{"label":"Enfermedad","pattern":"Endometriosis"}
+{"label":"Enfermedad","pattern":"Enfermedad renal poliqu\u00edstica"}
+{"label":"Enfermedad","pattern":"Escoliosis"}
+{"label":"Enfermedad","pattern":"Enfermedad diverticular"}
+{"label":"Enfermedad","pattern":"Enfermedad de Raynaud"}
+{"label":"Enfermedad","pattern":"S\u00edndrome de ovario poliqu\u00edstico SOP"}
+{"label":"Enfermedad","pattern":"Enfermedad de Graves"}
+{"label":"Enfermedad","pattern":"Espondilitis anquilosante"}
+{"label":"Enfermedad","pattern":"Enfermedad de Beh\u00e7et"}
+{"label":"Enfermedad","pattern":"Fibrosis qu\u00edstica"}
+{"label":"Enfermedad","pattern":"Enfermedad hep\u00e1tica alcoh\u00f3lica"}
+{"label":"Enfermedad","pattern":"Enfermedad hep\u00e1tica grasa no alcoh\u00f3lica"}
+{"label":"Enfermedad","pattern":"Enfermedad de Wilson"}
+{"label":"Enfermedad","pattern":"Hemofilia"}
+{"label":"Enfermedad","pattern":"Enfermedad de von Willebrand"}
+{"label":"Enfermedad","pattern":"Pancreatitis"}
+{"label":"Enfermedad","pattern":"Hiperplasia prost\u00e1tica benigna HPB"}
+{"label":"Enfermedad","pattern":"Enfermedad de Huntington"}
+{"label":"Enfermedad","pattern":"S\u00edndrome del t\u00fanel carpiano"}
+{"label":"Enfermedad","pattern":"S\u00edndrome de Guillain-Barr\u00e9"}
+{"label":"Enfermedad","pattern":"Enfermedad de Meniere"}
+{"label":"Enfermedad","pattern":"Enfermedad de M\u00e9ni\u00e8re"}
+{"label":"Enfermedad","pattern":"Enfermedad de Addison"}
+{"label":"Enfermedad","pattern":"Enfermedad de Hodgkin"}
+{"label":"Enfermedad","pattern":"Enfermedad de Cushing"}
+{"label":"Enfermedad","pattern":"Fibrosis pulmonar"}
+{"label":"Enfermedad","pattern":"Enfermedad de Gaucher"}
+{"label":"Enfermedad","pattern":"S\u00edndrome de Marfan"}
+{"label":"Enfermedad","pattern":"Enfermedad de Sj\u00f6gren"}
+{"label":"Enfermedad","pattern":"Enfermedad de Wegener"}
+{"label":"Enfermedad","pattern":"Enfermedad de McArdle"}
+{"label":"Enfermedad","pattern":"Enfermedad de Charcot-Marie-Tooth"}
+{"label":"Enfermedad","pattern":"Enfermedad de Buerger"}
+{"label":"Enfermedad","pattern":"Enfermedad de Pfeiffer"}
+{"label":"Enfermedad","pattern":"Enfermedad de Stein-Leventhal"}
+{"label":"Enfermedad","pattern":"Enfermedad de Stargardt"}
+{"label":"Enfermedad","pattern":"Enfermedad de Reiter"}
+{"label":"Enfermedad","pattern":"Enfermedad de S\u00edndrome de la boca ardiente"}
+{"label":"Enfermedad","pattern":"Enfermedad de Beh\u00e7et"}
+{"label":"Enfermedad","pattern":"Enfermedad de Rendu-Osler-Weber telangiectasia hemorr\u00e1gica hereditaria"}
+{"label":"Enfermedad","pattern":"Enfermedad de Lesch-Nyhan"}
+{"label":"Enfermedad","pattern":"Enfermedad de Fabry"}
+{"label":"Enfermedad","pattern":"Enfermedad de Gierke"}
+{"label":"Enfermedad","pattern":"Enfermedad de Tangier"}
+{"label":"Enfermedad","pattern":"Enfermedad de Kawasaki"}
+{"label":"Enfermedad","pattern":"Enfermedad de Stein-Leventhal"}
+{"label":"Enfermedad","pattern":"Enfermedad de Meige"}
+{"label":"Enfermedad","pattern":"Enfermedad de Alzheimer"}
+{"label":"Condici\u00f3n Medica","pattern":"Dolor de cabeza"}
+{"label":"Condici\u00f3n Medica","pattern":"Diarrea"}
+{"label":"Condici\u00f3n Medica","pattern":"Dolor de hombro"}
+{"label":"Condici\u00f3n Medica","pattern":"Fiebre"}
+{"label":"Condici\u00f3n Medica","pattern":"Resfriado com\u00fan"}
+{"label":"Condici\u00f3n Medica","pattern":"Gripe"}
+{"label":"Condici\u00f3n Medica","pattern":"Dolor de garganta"}
+{"label":"Condici\u00f3n Medica","pattern":"Tos"}
+{"label":"Condici\u00f3n Medica","pattern":"Congesti\u00f3n nasal"}
+{"label":"Condici\u00f3n Medica","pattern":"Insomnio"}
+{"label":"Condici\u00f3n Medica","pattern":"Migra\u00f1a"}
+{"label":"Condici\u00f3n Medica","pattern":"Dolor de est\u00f3mago"}
+{"label":"Condici\u00f3n Medica","pattern":"N\u00e1useas"}
+{"label":"Condici\u00f3n Medica","pattern":"V\u00f3mitos"}
+{"label":"Condici\u00f3n Medica","pattern":"Dolor de espalda"}
+{"label":"Condici\u00f3n Medica","pattern":"Dolor de cuello"}
+{"label":"Condici\u00f3n Medica","pattern":"Acidez estomacal"}
+{"label":"Condici\u00f3n Medica","pattern":"Estre\u00f1imiento"}
+{"label":"Condici\u00f3n Medica","pattern":"Diarrea del viajero"}
+{"label":"Condici\u00f3n Medica","pattern":"Alergias"}
+{"label":"Condici\u00f3n Medica","pattern":"Asma"}
+{"label":"Condici\u00f3n Medica","pattern":"Dermatitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Urticaria"}
+{"label":"Condici\u00f3n Medica","pattern":"Eczema"}
+{"label":"Condici\u00f3n Medica","pattern":"Picaduras de insectos"}
+{"label":"Condici\u00f3n Medica","pattern":"Quemaduras leves"}
+{"label":"Condici\u00f3n Medica","pattern":"Torcedura de tobillo"}
+{"label":"Condici\u00f3n Medica","pattern":"Hemorroides"}
+{"label":"Condici\u00f3n Medica","pattern":"Conjuntivitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Infecci\u00f3n del o\u00eddo"}
+{"label":"Condici\u00f3n Medica","pattern":"Sinusitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Amigdalitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Infecci\u00f3n urinaria"}
+{"label":"Condici\u00f3n Medica","pattern":"Cistitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Gota"}
+{"label":"Condici\u00f3n Medica","pattern":"Artritis"}
+{"label":"Condici\u00f3n Medica","pattern":"Artrosis"}
+{"label":"Condici\u00f3n Medica","pattern":"Hipertensi\u00f3n arterial"}
+{"label":"Condici\u00f3n Medica","pattern":"Diabetes"}
+{"label":"Condici\u00f3n Medica","pattern":"Colesterol alto"}
+{"label":"Condici\u00f3n Medica","pattern":"Hipotiroidismo"}
+{"label":"Condici\u00f3n Medica","pattern":"Hipertiroidismo"}
+{"label":"Condici\u00f3n Medica","pattern":"Anemia"}
+{"label":"Condici\u00f3n Medica","pattern":"\u00dalcera estomacal"}
+{"label":"Condici\u00f3n Medica","pattern":"Gastritis"}
+{"label":"Condici\u00f3n Medica","pattern":"Colitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Enfermedad inflamatoria intestinal"}
+{"label":"Condici\u00f3n Medica","pattern":"Apendicitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Hernia"}
+{"label":"Condici\u00f3n Medica","pattern":"Diverticulitis"}
+{"label":"Condici\u00f3n Medica","pattern":"C\u00e1lculos renales"}
+{"label":"Condici\u00f3n Medica","pattern":"Enfermedad renal cr\u00f3nica"}
+{"label":"Condici\u00f3n Medica","pattern":"Enfermedad hep\u00e1tica"}
+{"label":"Condici\u00f3n Medica","pattern":"Hepatitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Cirrosis"}
+{"label":"Condici\u00f3n Medica","pattern":"Insuficiencia card\u00edaca"}
+{"label":"Condici\u00f3n Medica","pattern":"Infarto de miocardio"}
+{"label":"Condici\u00f3n Medica","pattern":"Arritmia card\u00edaca"}
+{"label":"Condici\u00f3n Medica","pattern":"Hipertensi\u00f3n pulmonar"}
+{"label":"Condici\u00f3n Medica","pattern":"Enfermedad pulmonar obstructiva cr\u00f3nica EPOC"}
+{"label":"Condici\u00f3n Medica","pattern":"Asbestosis"}
+{"label":"Condici\u00f3n Medica","pattern":"Neumon\u00eda"}
+{"label":"Condici\u00f3n Medica","pattern":"Tuberculosis"}
+{"label":"Condici\u00f3n Medica","pattern":"Enfermedad de Parkinson"}
+{"label":"Condici\u00f3n Medica","pattern":"Esclerosis m\u00faltiple"}
+{"label":"Condici\u00f3n Medica","pattern":"Alzheimer"}
+{"label":"Condici\u00f3n Medica","pattern":"Depresi\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Ansiedad"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno bipolar"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de estr\u00e9s postraum\u00e1tico TEPT"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de p\u00e1nico"}
+{"label":"Condici\u00f3n Medica","pattern":"Esquizofrenia"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de sue\u00f1o"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno por d\u00e9ficit de atenci\u00f3n e hiperactividad TDAH"}
+{"label":"Condici\u00f3n Medica","pattern":"Autismo"}
+{"label":"Condici\u00f3n Medica","pattern":"Epilepsia"}
+{"label":"Condici\u00f3n Medica","pattern":"Meningitis"}
+{"label":"Condici\u00f3n Medica","pattern":"Encefalitis"}
+{"label":"Condici\u00f3n Medica","pattern":"C\u00e1ncer de mama"}
+{"label":"Condici\u00f3n Medica","pattern":"C\u00e1ncer de pulm\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"C\u00e1ncer de colon"}
+{"label":"Condici\u00f3n Medica","pattern":"C\u00e1ncer de pr\u00f3stata"}
+{"label":"Condici\u00f3n Medica","pattern":"Leucemia"}
+{"label":"Condici\u00f3n Medica","pattern":"Linfoma"}
+{"label":"Condici\u00f3n Medica","pattern":"Melanoma"}
+{"label":"Condici\u00f3n Medica","pattern":"Diabetes gestacional"}
+{"label":"Condici\u00f3n Medica","pattern":"Preeclampsia"}
+{"label":"Condici\u00f3n Medica","pattern":"Menopausia"}
+{"label":"Condici\u00f3n Medica","pattern":"Endometriosis"}
+{"label":"Condici\u00f3n Medica","pattern":"Fibromialgia"}
+{"label":"Condici\u00f3n Medica","pattern":"S\u00edndrome de fatiga cr\u00f3nica"}
+{"label":"Condici\u00f3n Medica","pattern":"Disfunci\u00f3n er\u00e9ctil"}
+{"label":"Condici\u00f3n Medica","pattern":"Infertilidad"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de la alimentaci\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Bulimia"}
+{"label":"Condici\u00f3n Medica","pattern":"Anorexia"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de la conducta alimentaria no especificado TCANE"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de la personalidad"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno l\u00edmite de la personalidad"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno narcisista de la personalidad"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno antisocial de la personalidad"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno por estr\u00e9s agudo"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de ansiedad generalizada TAG"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de ansiedad social fobia social"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de p\u00e1nico"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de estr\u00e9s postraum\u00e1tico TEPT"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno por somatizaci\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de conversi\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno disociativo"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno facticio"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno obsesivo-compulsivo TOC"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de acumulaci\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de excoriaci\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de rumiaci\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de tics"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de sue\u00f1o"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno del espectro autista"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno por d\u00e9ficit de atenci\u00f3n e hiperactividad TDAH"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de conducta"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno oposicionista desafiante TOD"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno del control de los impulsos"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno explosivo intermitente"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de la conducta alimentaria"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de la eliminaci\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno del sue\u00f1o-vigilia"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno del ritmo circadiano"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de adaptaci\u00f3n"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno del estado de \u00e1nimo"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno depresivo mayor"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno dist\u00edmico"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno bipolar"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno ciclot\u00edmico"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de ansiedad"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de ansiedad generalizada"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de p\u00e1nico"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de ansiedad social"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de estr\u00e9s postraum\u00e1tico"}
+{"label":"Condici\u00f3n Medica","pattern":"Trastorno de estr\u00e9s agudo"}
+{"label":"Musculos","pattern":"Abductor de me\u00f1ique"}
+{"label":"Musculos","pattern":"Abductor largo del pulgar"}
+{"label":"Musculos","pattern":"Aductor del pulgar"}
+{"label":"Musculos","pattern":"Aductor mayor"}
+{"label":"Musculos","pattern":"Aductor mediano"}
+{"label":"Musculos","pattern":"Aductor menor"}
+{"label":"Musculos","pattern":"Anc\u00f3neo"}
+{"label":"Musculos","pattern":"Angular del omoplato"}
+{"label":"Musculos","pattern":"Aproximador del primer dedo"}
+{"label":"Musculos","pattern":"B\u00edceps braquial"}
+{"label":"Musculos","pattern":"B\u00edceps crural"}
+{"label":"Musculos","pattern":"Braquial anterior"}
+{"label":"Musculos","pattern":"Bulbocavernoso"}
+{"label":"Musculos","pattern":"Complexo menor"}
+{"label":"Musculos","pattern":"Constrictor de la vulva"}
+{"label":"Musculos","pattern":"Coracobraquial"}
+{"label":"Musculos","pattern":"Cuadrado carnoso de Silvio o accesorio del flexor largo com\u00fan de los dedos"}
+{"label":"Musculos","pattern":"Cuadrado crural"}
+{"label":"Musculos","pattern":"Cuadrado lumbar"}
+{"label":"Musculos","pattern":"Cu\u00e1driceps recto anterior"}
+{"label":"Musculos","pattern":"Cu\u00e1driceps vasto externo"}
+{"label":"Musculos","pattern":"Cu\u00e1driceps vasto interno"}
+{"label":"Musculos","pattern":"Cu\u00e1driceps vasto medio o crural"}
+{"label":"Musculos","pattern":"Cubital anterior"}
+{"label":"Musculos","pattern":"Cubital posterior"}
+{"label":"Musculos","pattern":"Deltoides"}
+{"label":"Musculos","pattern":"Diafragma"}
+{"label":"Musculos","pattern":"Dorsal ancho"}
+{"label":"Musculos","pattern":"Dorsal largo"}
+{"label":"Musculos","pattern":"Elevador del ano"}
+{"label":"Musculos","pattern":"Epiespinosos"}
+{"label":"Musculos","pattern":"Escalenos"}
+{"label":"Musculos","pattern":"Esf\u00ednter externo de la uretra"}
+{"label":"Musculos","pattern":"Esf\u00ednter externo del ano"}
+{"label":"Musculos","pattern":"Esplenio de la cabeza"}
+{"label":"Musculos","pattern":"Esplenio del cuello"}
+{"label":"Musculos","pattern":"Esternocleidomastoideo"}
+{"label":"Musculos","pattern":"Esternocleidomastoideo"}
+{"label":"Musculos","pattern":"Extensor com\u00fan de los dedos"}
+{"label":"Musculos","pattern":"Extensor corto del pulgar"}
+{"label":"Musculos","pattern":"Extensor largo com\u00fan de los dedos"}
+{"label":"Musculos","pattern":"Extensor largo del primer dedo"}
+{"label":"Musculos","pattern":"Extensor largo del pulgar"}
+{"label":"Musculos","pattern":"Extensor propio del dedo \u00edndice"}
+{"label":"Musculos","pattern":"Extensor propio del dedo me\u00f1ique"}
+{"label":"Musculos","pattern":"Flexor com\u00fan de los dedos"}
+{"label":"Musculos","pattern":"Flexor com\u00fan profundo de los dedos"}
+{"label":"Musculos","pattern":"Flexor com\u00fan superficial de los dedos"}
+{"label":"Musculos","pattern":"Flexor corto com\u00fan de los dedos"}
+{"label":"Musculos","pattern":"Flexor corto del me\u00f1ique"}
+{"label":"Musculos","pattern":"Flexor corto del pulgar"}
+{"label":"Musculos","pattern":"Flexor corto del quinto dedo"}
+{"label":"Musculos","pattern":"Flexor largo del dedo gordo"}
+{"label":"Musculos","pattern":"Flexor largo del primer dedo"}
+{"label":"Musculos","pattern":"Flexor largo del pulgar"}
+{"label":"Musculos","pattern":"Flexor largo profundo com\u00fan de los dedos FLPCD"}
+{"label":"Musculos","pattern":"Flexor largo superficial com\u00fan de los dedos FLSCD"}
+{"label":"Musculos","pattern":"G\u00e9minos"}
+{"label":"Musculos","pattern":"Gl\u00fateo mayor"}
+{"label":"Musculos","pattern":"Gl\u00fateo mediano"}
+{"label":"Musculos","pattern":"Gl\u00fateo menor"}
+{"label":"Musculos","pattern":"Iliocostal"}
+{"label":"Musculos","pattern":"Infraespinoso"}
+{"label":"Musculos","pattern":"Intercostales externos"}
+{"label":"Musculos","pattern":"Intercostales internos"}
+{"label":"Musculos","pattern":"Intercostales medios"}
+{"label":"Musculos","pattern":"Inter\u00f3seos dorsales"}
+{"label":"Musculos","pattern":"Inter\u00f3seos dorsales pie"}
+{"label":"Musculos","pattern":"Inter\u00f3seos ventrales"}
+{"label":"Musculos","pattern":"Inter\u00f3seos ventrales pie"}
+{"label":"Musculos","pattern":"Intertransversos"}
+{"label":"Musculos","pattern":"Isquiocavernoso"}
+{"label":"Musculos","pattern":"Isquiocox\u00edgeno"}
+{"label":"Musculos","pattern":"Largo del cuello"}
+{"label":"Musculos","pattern":"Lumbricales"}
+{"label":"Musculos","pattern":"Lumbricales pie"}
+{"label":"Musculos","pattern":"Mult\u00edfidos"}
+{"label":"Musculos","pattern":"Oblicuo mayor de la cabeza"}
+{"label":"Musculos","pattern":"Oblicuo mayor del abdomen"}
+{"label":"Musculos","pattern":"Oblicuo menor de la cabeza"}
+{"label":"Musculos","pattern":"Oblicuo menor del abdomen"}
+{"label":"Musculos","pattern":"Obturador externo"}
+{"label":"Musculos","pattern":"Obturador interno"}
+{"label":"Musculos","pattern":"Omohoideo"}
+{"label":"Musculos","pattern":"Oponente del me\u00f1ique"}
+{"label":"Musculos","pattern":"Oponente del pulgar"}
+{"label":"Musculos","pattern":"Oponente del quinto dedo"}
+{"label":"Musculos","pattern":"Palmar mayor"}
+{"label":"Musculos","pattern":"Palmar menor"}
+{"label":"Musculos","pattern":"Pect\u00edneo"}
+{"label":"Musculos","pattern":"Pectoral mayor"}
+{"label":"Musculos","pattern":"Pectoral menor"}
+{"label":"Musculos","pattern":"Pedio o extensor corto de los dedos"}
+{"label":"Musculos","pattern":"Peroneo anterior"}
+{"label":"Musculos","pattern":"Peroneo lateral corto"}
+{"label":"Musculos","pattern":"Peroneo lateral largo"}
+{"label":"Musculos","pattern":"Piramidal"}
+{"label":"Musculos","pattern":"Popl\u00edteo"}
+{"label":"Musculos","pattern":"Primer radial o extensor radial largo"}
+{"label":"Musculos","pattern":"Pronador cuadrado"}
+{"label":"Musculos","pattern":"Pronador redondo"}
+{"label":"Musculos","pattern":"Psoas il\u00edaco columna"}
+{"label":"Musculos","pattern":"Psoas il\u00edaco cadera"}
+{"label":"Musculos","pattern":"Recto anterior"}
+{"label":"Musculos","pattern":"Recto anterior mayor"}
+{"label":"Musculos","pattern":"Recto anterior menor"}
+{"label":"Musculos","pattern":"Recto del abdomen"}
+{"label":"Musculos","pattern":"Recto dorsal menor de la cabeza"}
+{"label":"Musculos","pattern":"Recto interno o gracillis"}
+{"label":"Musculos","pattern":"Recto lateral"}
+{"label":"Musculos","pattern":"Redondo mayor"}
+{"label":"Musculos","pattern":"Redondo menor"}
+{"label":"Musculos","pattern":"Romboides menor y mayor"}
+{"label":"Musculos","pattern":"Rotadores"}
+{"label":"Musculos","pattern":"Sartorio"}
+{"label":"Musculos","pattern":"Segundo radial o extensor radial corto"}
+{"label":"Musculos","pattern":"Semiespinoso cervical o complexo mayor"}
+{"label":"Musculos","pattern":"Semiespinoso dorsal"}
+{"label":"Musculos","pattern":"Semimembranoso"}
+{"label":"Musculos","pattern":"Semitendinoso"}
+{"label":"Musculos","pattern":"Separador del primer dedo"}
+{"label":"Musculos","pattern":"Separador del quinto dedo"}
+{"label":"Musculos","pattern":"Separador o abductor corto del pulgar"}
+{"label":"Musculos","pattern":"Serrato mayor"}
+{"label":"Musculos","pattern":"Serratos dorsales inferiores"}
+{"label":"Musculos","pattern":"Serratos dorsales superiores"}
+{"label":"Musculos","pattern":"Subcostales"}
+{"label":"Musculos","pattern":"Subescapular"}
+{"label":"Musculos","pattern":"Supinador corto"}
+{"label":"Musculos","pattern":"Supinador largo"}
+{"label":"Musculos","pattern":"Supracostales"}
+{"label":"Musculos","pattern":"Supraespinoso"}
+{"label":"Musculos","pattern":"Tensor de la fascia lata"}
+{"label":"Musculos","pattern":"Tibial anterior"}
+{"label":"Musculos","pattern":"Tibial posterior"}
+{"label":"Musculos","pattern":"Transverso del abdomen"}
+{"label":"Musculos","pattern":"Transverso profundo del perin\u00e9"}
+{"label":"Musculos","pattern":"Transverso superficial de perin\u00e9"}
+{"label":"Musculos","pattern":"Trapecio"}
+{"label":"Musculos","pattern":"Triangular del estern\u00f3n"}
+{"label":"Musculos","pattern":"Triceps braquial"}
+{"label":"Musculos","pattern":"Triceps sural delgado plantar"}
+{"label":"Musculos","pattern":"Triceps sural gemelo"}
+{"label":"Musculos","pattern":"Triceps sural s\u00f3leo"}
+{"label":"Patogenos","pattern":"Rabia"}
+{"label":"Patogenos","pattern":"Virus Magboi"}
+{"label":"Patogenos","pattern":"Bacterial vaginosis"}
+{"label":"Patogenos","pattern":"Lactobacilos"}
+{"label":"Patogenos","pattern":"E coli"}
+{"label":"Patogenos","pattern":"Staphylococcus aureus"}
+{"label":"Patogenos","pattern":"Clostridium difficile"}
+{"label":"Patogenos","pattern":"Salmonella"}
+{"label":"Patogenos","pattern":"Hepatitis A"}
+{"label":"Patogenos","pattern":"Hepatitis B"}
+{"label":"Patogenos","pattern":"Hepatitis C"}
+{"label":"Patogenos","pattern":"Influenza"}
+{"label":"Patogenos","pattern":"SARS-CoV-"}
+{"label":"Patogenos","pattern":"VIHSIDA"}
+{"label":"Patogenos","pattern":"Herpes"}
+{"label":"Patogenos","pattern":"Varicela"}
+{"label":"Patogenos","pattern":"Rub\u00e9ola"}
+{"label":"Patogenos","pattern":"Sarampi\u00f3n"}
+{"label":"Patogenos","pattern":"Paperas"}
+{"label":"Patogenos","pattern":"Dengue"}
+{"label":"Patogenos","pattern":"Zika"}
+{"label":"Patogenos","pattern":"Chikungunya"}
+{"label":"Patogenos","pattern":"Malaria"}
+{"label":"Patogenos","pattern":"Tuberculosis"}
+{"label":"Patogenos","pattern":"C\u00f3lera"}
+{"label":"Patogenos","pattern":"Gonorrea"}
+{"label":"Patogenos","pattern":"S\u00edfilis"}
+{"label":"Patogenos","pattern":"Leprosy"}
+{"label":"Patogenos","pattern":"Tricomoniasis"}
+{"label":"Patogenos","pattern":"Candidiasis"}
+{"label":"Patogenos","pattern":"Toxoplasmosis"}
+{"label":"Patogenos","pattern":"Meningitis"}
+{"label":"Patogenos","pattern":"Encefalitis"}
+{"label":"Patogenos","pattern":"Neumon\u00eda"}
+{"label":"Patogenos","pattern":"Bronquitis"}
+{"label":"Patogenos","pattern":"T\u00e9tanos"}
+{"label":"Patogenos","pattern":"Poliomielitis"}
+{"label":"Patogenos","pattern":"Ebola"}
+{"label":"Patogenos","pattern":"Fiebre amarilla"}
+{"label":"Patogenos","pattern":"Cholera"}
+{"label":"Patogenos","pattern":"Anthrax"}
+{"label":"Patogenos","pattern":"Botulism"}
+{"label":"Patogenos","pattern":"Tularemia"}
+{"label":"Patogenos","pattern":"Plague"}
+{"label":"Patogenos","pattern":"Hantavirus"}
+{"label":"Patogenos","pattern":"Zoonotic influenza"}
+{"label":"Patogenos","pattern":"Norovirus"}
+{"label":"Patogenos","pattern":"Rotavirus"}
+{"label":"Patogenos","pattern":"SARS-CoV"}
+{"label":"Patogenos","pattern":"MERS-CoV"}
+{"label":"Patogenos","pattern":"Hantavirus Pulmonary Syndrome"}
+{"label":"Patogenos","pattern":"Lyme disease"}
+{"label":"Patogenos","pattern":"West Nile virus"}
+{"label":"Patogenos","pattern":"Rift Valley fever"}
+{"label":"Patogenos","pattern":"Avian influenza"}
+{"label":"Patogenos","pattern":"Swine influenza"}
+{"label":"Patogenos","pattern":"Hantavirus"}
+{"label":"Patogenos","pattern":"Borrelia burgdorferi"}
+{"label":"Patogenos","pattern":"Escherichia coli"}
+{"label":"Patogenos","pattern":"Streptococcus pneumoniae"}
+{"label":"Patogenos","pattern":"Streptococcus pyogenes"}
+{"label":"Patogenos","pattern":"Neisseria meningitidis"}
+{"label":"Patogenos","pattern":"Haemophilus influenzae"}
+{"label":"Patogenos","pattern":"Bordetella pertussis"}
+{"label":"Patogenos","pattern":"Mycobacterium tuberculosis"}
+{"label":"Patogenos","pattern":"Mycobacterium leprae"}
+{"label":"Patogenos","pattern":"Clostridium botulinum"}
+{"label":"Patogenos","pattern":"Clostridium tetani"}
+{"label":"Patogenos","pattern":"Clostridium perfringens"}
+{"label":"Patogenos","pattern":"Clostridium difficile"}
+{"label":"Patogenos","pattern":"Salmonella enterica"}
+{"label":"Patogenos","pattern":"Salmonella typhi"}
+{"label":"Patogenos","pattern":"Salmonella paratyphi"}
+{"label":"Patogenos","pattern":"Campylobacter jejuni"}
+{"label":"Patogenos","pattern":"Vibrio cholerae"}
+{"label":"Patogenos","pattern":"Yersinia pestis"}
+{"label":"Patogenos","pattern":"Francisella tularensis"}
+{"label":"Patogenos","pattern":"Bacillus anthracis"}
+{"label":"Patogenos","pattern":"Listeria monocytogenes"}
+{"label":"Patogenos","pattern":"Brucella"}
+{"label":"Patogenos","pattern":"Legionella pneumophila"}
+{"label":"Patogenos","pattern":"Borrelia burgdorferi"}
+{"label":"Patogenos","pattern":"Treponema pallidum"}
+{"label":"Patogenos","pattern":"Chlamydia trachomatis"}
+{"label":"Patogenos","pattern":"Mycoplasma pneumoniae"}
+{"label":"Patogenos","pattern":"Shigella"}
+{"label":"Patogenos","pattern":"Helicobacter pylori"}
+{"label":"Patogenos","pattern":"Escherichia coli OH"}
+{"label":"Patogenos","pattern":"Giardia lamblia"}
+{"label":"Patogenos","pattern":"Trichomonas vaginalis"}
+{"label":"Patogenos","pattern":"Plasmodium falciparum"}
+{"label":"Patogenos","pattern":"Plasmodium vivax"}
+{"label":"Patogenos","pattern":"Plasmodium malariae"}
+{"label":"Patogenos","pattern":"Toxoplasma gondii"}
+{"label":"Patogenos","pattern":"Trypanosoma cruzi"}
+{"label":"Patogenos","pattern":"Trypanosoma brucei"}
+{"label":"Patogenos","pattern":"Trypanosoma gambiense"}
+{"label":"Patogenos","pattern":"Leishmania"}
+{"label":"Patogenos","pattern":"HIV"}
+{"label":"Patogenos","pattern":"Human papillomavirus HPV"}
+{"label":"Patogenos","pattern":"Hepatitis A virus"}
+{"label":"Patogenos","pattern":"Hepatitis B virus"}
+{"label":"Patogenos","pattern":"Hepatitis C virus"}
+{"label":"Patogenos","pattern":"Herpes simplex virus"}
+{"label":"Patogenos","pattern":"Varicella-zoster virus"}
+{"label":"Patogenos","pattern":"Influenza virus"}
+{"label":"Patogenos","pattern":"Measles virus"}
+{"label":"Patogenos","pattern":"Mumps virus"}
+{"label":"Patogenos","pattern":"Rubella virus"}
+{"label":"Patogenos","pattern":"Rotavirus"}
+{"label":"Patogenos","pattern":"Norovirus"}
+{"label":"Patogenos","pattern":"Poliovirus"}
+{"label":"Patogenos","pattern":"Rhinovirus"}
+{"label":"Patogenos","pattern":"Coronavirus"}
+{"label":"Patogenos","pattern":"Ebola virus"}
+{"label":"Patogenos","pattern":"Marburg virus"}
+{"label":"Patogenos","pattern":"Yellow fever virus"}
+{"label":"Patogenos","pattern":"Zika virus"}
+{"label":"Patogenos","pattern":"Dengue virus"}
+{"label":"Patogenos","pattern":"Chikungunya virus"}
+{"label":"Organos","pattern":"Cerebro"}
+{"label":"Organos","pattern":"Coraz\u00f3n"}
+{"label":"Organos","pattern":"Pulmones"}
+{"label":"Organos","pattern":"H\u00edgado"}
+{"label":"Organos","pattern":"Est\u00f3mago"}
+{"label":"Organos","pattern":"Intestino delgado"}
+{"label":"Organos","pattern":"Intestino grueso"}
+{"label":"Organos","pattern":"Ri\u00f1ones"}
+{"label":"Organos","pattern":"Vejiga"}
+{"label":"Organos","pattern":"P\u00e1ncreas"}
+{"label":"Organos","pattern":"Ves\u00edcula biliar"}
+{"label":"Organos","pattern":"Bazo"}
+{"label":"Organos","pattern":"M\u00e9dula espinal"}
+{"label":"Organos","pattern":"M\u00fasculos"}
+{"label":"Organos","pattern":"Huesos"}
+{"label":"Organos","pattern":"Piel"}
+{"label":"Organos","pattern":"Ojos"}
+{"label":"Organos","pattern":"O\u00eddos"}
+{"label":"Organos","pattern":"Nariz"}
+{"label":"Organos","pattern":"Boca"}
+{"label":"Organos","pattern":"Lengua"}
+{"label":"Organos","pattern":"Dientes"}
+{"label":"Organos","pattern":"Garganta"}
+{"label":"Organos","pattern":"Am\u00edgdalas"}
+{"label":"Organos","pattern":"Gl\u00e1ndulas salivales"}
+{"label":"Organos","pattern":"Tr\u00e1quea"}
+{"label":"Organos","pattern":"Bronquios"}
+{"label":"Organos","pattern":"Diafragma"}
+{"label":"Organos","pattern":"Uretra"}
+{"label":"Organos","pattern":"\u00datero"}
+{"label":"Organos","pattern":"Ovarios"}
+{"label":"Organos","pattern":"Test\u00edculos"}
+{"label":"Organos","pattern":"Pr\u00f3stata"}
+{"label":"Organos","pattern":"Gl\u00e1ndulas suprarrenales"}
+{"label":"Organos","pattern":"Tiroides"}
+{"label":"Organos","pattern":"Paratiroides"}
+{"label":"Organos","pattern":"Hip\u00f3fisis"}
+{"label":"Organos","pattern":"Timo"}
+{"label":"Organos","pattern":"Pleura"}
+{"label":"Organos","pattern":"Pericardio"}
+{"label":"Organos","pattern":"Peritoneo"}
+{"label":"Organos","pattern":"Dermis"}
+{"label":"Organos","pattern":"Epidermis"}
+{"label":"Organos","pattern":"Hipodermis"}
+{"label":"Organos","pattern":"Linfonodos"}
+{"label":"Organos","pattern":"Ganglios linf\u00e1ticos"}
+{"label":"Organos","pattern":"Vasos sangu\u00edneos"}
+{"label":"Organos","pattern":"Arterias"}
+{"label":"Organos","pattern":"Venas"}
+{"label":"Organos","pattern":"Nervios"}
+{"label":"Organos","pattern":"Es\u00f3fago"}
+{"label":"Organos","pattern":"Laringe"}
+{"label":"Organos","pattern":"Cerebelo"}
+{"label":"Organos","pattern":"Gl\u00e1ndulas lacrimales"}
+{"label":"Organos","pattern":"M\u00e9dula \u00f3sea"}
+{"label":"Organos","pattern":"Articulaciones"}
+{"label":"Organos","pattern":"Cart\u00edlagos"}
+{"label":"Organos","pattern":"Tendones"}
+{"label":"Organos","pattern":"Ligamentos"}
+{"label":"Organos","pattern":"Trompas de Falopio"}
+{"label":"Organos","pattern":"Esperma"}
+{"label":"Organos","pattern":"Fluido seminal"}
+{"label":"Organos","pattern":"Cord\u00f3n umbilical"}
+{"label":"Organos","pattern":"Placenta"}
+{"label":"Organos","pattern":"Amni\u00f3tico"}
+{"label":"Organos","pattern":"Ganglios linf\u00e1ticos"}
+{"label":"Organos","pattern":"Tejido linf\u00e1tico"}
+{"label":"Organos","pattern":"Ganglios nerviosos"}
+{"label":"Organos","pattern":"Tejido adiposo"}
+{"label":"Organos","pattern":"Gl\u00e1ndulas mamarias"}
+{"label":"Organos","pattern":"Gl\u00e1ndulas sudor\u00edparas"}
+{"label":"Organos","pattern":"Gl\u00e1ndulas seb\u00e1ceas"}
+{"label":"Organos","pattern":"Tejido conjuntivo"}
+{"label":"Organos","pattern":"Tejido muscular liso"}
+{"label":"Organos","pattern":"Tejido muscular estriado"}
+{"label":"Organos","pattern":"Tejido nervioso"}
+{"label":"Organos","pattern":"Tejido \u00f3seo"}
+{"label":"Organos","pattern":"Tejido cartilaginoso"}
+{"label":"Organos","pattern":"Tejido epitelial"}
+{"label":"Organos","pattern":"Vasos linf\u00e1ticos"}
+{"label":"Organos","pattern":"Vasos linf\u00e1ticos superficiales"}
+{"label":"Organos","pattern":"Vasos linf\u00e1ticos profundos"}
+{"label":"Organos","pattern":"Vasos linf\u00e1ticos principales"}
+{"label":"Organos","pattern":"Vasos linf\u00e1ticos accesorios"}

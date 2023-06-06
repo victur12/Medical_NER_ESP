@@ -1,0 +1,1588 @@
+[
+    [
+        "La terapia hormonal se utiliza en el tratamiento del sistema endocrino para regular los niveles de hormonas. Algunas enfermedades, como el hipotiroidismo, pueden requerir terapia hormonal de por vida.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ],
+                [
+                    53,
+                    70,
+                    "Sistema"
+                ],
+                [
+                    139,
+                    153,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    171,
+                    187,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los m\u00fasculos del sistema locomotor son esenciales para el movimiento y la funci\u00f3n del cuerpo. La fisioterapia puede ayudar a fortalecer los m\u00fasculos y mejorar la coordinaci\u00f3n motora.",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "Organos"
+                ],
+                [
+                    17,
+                    34,
+                    "Sistema"
+                ],
+                [
+                    97,
+                    109,
+                    "Terapia"
+                ],
+                [
+                    140,
+                    148,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de grupo es una forma de apoyo emocional donde las personas comparten experiencias y se brindan mutuo apoyo. Puede ser beneficiosa para aquellos que luchan con enfermedades cr\u00f3nicas.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La piel es el \u00f3rgano m\u00e1s grande del cuerpo y cumple funciones importantes en la protecci\u00f3n y regulaci\u00f3n de la temperatura. Algunas afecciones de la piel, como el acn\u00e9, pueden requerir tratamientos dermatol\u00f3gicos espec\u00edficos.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "Organos"
+                ],
+                [
+                    148,
+                    152,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La tuberculosis es una enfermedad infecciosa que afecta principalmente los pulmones, pero tambi\u00e9n puede afectar otros \u00f3rganos del sistema respiratorio. La terapia antibi\u00f3tica es fundamental en el tratamiento de la tuberculosis.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "Patogenos"
+                ],
+                [
+                    75,
+                    83,
+                    "Organos"
+                ],
+                [
+                    130,
+                    150,
+                    "Sistema"
+                ],
+                [
+                    214,
+                    226,
+                    "Patogenos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de pareja se centra en mejorar la comunicaci\u00f3n y resolver problemas en las relaciones. Puede ser \u00fatil para superar dificultades y fortalecer los v\u00ednculos emocionales.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia farmacol\u00f3gica implica el uso de medicamentos para tratar enfermedades y aliviar los s\u00edntomas. Es importante seguir las indicaciones del m\u00e9dico y tomar los medicamentos seg\u00fan lo recetado.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema excretor, que incluye los ri\u00f1ones y la vejiga, es responsable de eliminar los desechos del cuerpo a trav\u00e9s de la orina. Algunas enfermedades renales pueden requerir di\u00e1lisis como terapia de sustituci\u00f3n renal.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Sistema"
+                ],
+                [
+                    37,
+                    44,
+                    "Organos"
+                ],
+                [
+                    50,
+                    56,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de rehabilitaci\u00f3n se enfoca en la recuperaci\u00f3n funcional despu\u00e9s de una lesi\u00f3n o cirug\u00eda. Puede incluir ejercicios de fisioterapia, terapia ocupacional y otras intervenciones espec\u00edficas.",
+        {
+            "entities": [
+                [
+                    3,
+                    28,
+                    "Terapia"
+                ],
+                [
+                    92,
+                    99,
+                    "Terapia"
+                ],
+                [
+                    129,
+                    141,
+                    "Terapia"
+                ],
+                [
+                    143,
+                    162,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema nervioso controla y coordina las funciones del cuerpo. La terapia cognitivo-conductual se utiliza para tratar trastornos de salud mental que pueden afectar el funcionamiento del sistema nervioso.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Sistema"
+                ],
+                [
+                    69,
+                    97,
+                    "Terapia"
+                ],
+                [
+                    189,
+                    205,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia psicodin\u00e1mica se basa en la exploraci\u00f3n de los procesos mentales inconscientes para comprender y resolver conflictos emocionales. Puede ser beneficiosa en el tratamiento de diversas condiciones de salud mental.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de aceptaci\u00f3n y compromiso es una forma de psicoterapia que se centra en la aceptaci\u00f3n de pensamientos y emociones, y en la b\u00fasqueda de compromisos para vivir una vida valiosa y significativa.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Terapia"
+                ],
+                [
+                    54,
+                    66,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los medicamentos recetados pueden ser parte integral del tratamiento de diversas enfermedades, como la hipertensi\u00f3n arterial. Es importante seguir las indicaciones m\u00e9dicas y tomar los medicamentos seg\u00fan lo prescrito.",
+        {
+            "entities": [
+                [
+                    103,
+                    124,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La acupuntura es una terapia tradicional china que implica la inserci\u00f3n de agujas delgadas en puntos espec\u00edficos del cuerpo para promover la salud y el bienestar. Puede ser utilizada como complemento en el tratamiento de diversas afecciones.",
+        {
+            "entities": [
+                [
+                    3,
+                    13,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad cardiovascular afecta al sistema circulatorio, que incluye el coraz\u00f3n y los vasos sangu\u00edneos. La rehabilitaci\u00f3n card\u00edaca es una terapia recomendada despu\u00e9s de un evento card\u00edaco para recuperar la funci\u00f3n card\u00edaca y prevenir complicaciones.",
+        {
+            "entities": [
+                [
+                    3,
+                    28,
+                    "Enfermedad"
+                ],
+                [
+                    39,
+                    59,
+                    "Sistema"
+                ],
+                [
+                    76,
+                    83,
+                    "Organos"
+                ],
+                [
+                    90,
+                    106,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia ocupacional se enfoca en ayudar a las personas a desarrollar, mejorar o mantener habilidades necesarias para participar en actividades diarias. Puede ser \u00fatil en el manejo de enfermedades cr\u00f3nicas que afectan el sistema locomotor.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Terapia"
+                ],
+                [
+                    223,
+                    240,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de grupo puede ser beneficiosa para personas con trastornos de ansiedad, brindando un entorno de apoyo donde se comparten estrategias de afrontamiento y se trabaja en el desarrollo de habilidades sociales.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ],
+                [
+                    74,
+                    82,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema digestivo descompone los alimentos y los absorbe para proporcionar nutrientes al cuerpo. Algunas enfermedades gastrointestinales, como la enfermedad de Crohn, pueden requerir terapias espec\u00edficas para controlar los s\u00edntomas.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de masajes se utiliza para aliviar la tensi\u00f3n muscular, mejorar la circulaci\u00f3n y promover la relajaci\u00f3n. Puede ser una opci\u00f3n complementaria en el tratamiento de dolores musculares y condiciones relacionadas con el sistema locomotor.",
+        {
+            "entities": [
+                [
+                    3,
+                    21,
+                    "Terapia"
+                ],
+                [
+                    226,
+                    243,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "La fisioterapia es una forma de terapia f\u00edsica que se enfoca en restaurar el movimiento y la funci\u00f3n f\u00edsica despu\u00e9s de una lesi\u00f3n o enfermedad. Puede ser \u00fatil en el tratamiento de trastornos musculoesquel\u00e9ticos y afecciones del sistema locomotor.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "Terapia"
+                ],
+                [
+                    32,
+                    46,
+                    "Terapia"
+                ],
+                [
+                    228,
+                    245,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los pulmones son parte del sistema respiratorio y desempe\u00f1an un papel crucial en la respiraci\u00f3n y la oxigenaci\u00f3n del cuerpo. La radioterapia puede ser utilizada en el tratamiento del c\u00e1ncer de pulm\u00f3n para destruir c\u00e9lulas cancerosas y reducir el tama\u00f1o de los tumores.",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "Organos"
+                ],
+                [
+                    27,
+                    47,
+                    "Sistema"
+                ],
+                [
+                    128,
+                    140,
+                    "Terapia"
+                ],
+                [
+                    183,
+                    199,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia hormonal se utiliza en el manejo de diversas condiciones, como el desequilibrio hormonal y los s\u00edntomas de la menopausia. Puede implicar la administraci\u00f3n de medicamentos hormonales para regular los niveles hormonales en el cuerpo.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ],
+                [
+                    121,
+                    131,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema excretor, que incluye los ri\u00f1ones y la vejiga, se encarga de eliminar los desechos y toxinas del cuerpo a trav\u00e9s de la orina. La terapia de di\u00e1lisis es utilizada en personas con enfermedad renal cr\u00f3nica para filtrar y limpiar la sangre cuando los ri\u00f1ones no funcionan adecuadamente.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Sistema"
+                ],
+                [
+                    37,
+                    44,
+                    "Organos"
+                ],
+                [
+                    50,
+                    56,
+                    "Organos"
+                ],
+                [
+                    189,
+                    213,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    258,
+                    265,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema endocrino est\u00e1 compuesto por gl\u00e1ndulas que producen hormonas que regulan diversas funciones en el cuerpo. La terapia de reemplazo hormonal puede ser recomendada en casos de deficiencia hormonal para restablecer los niveles adecuados en el organismo.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los huesos son parte del sistema locomotor y brindan soporte estructural al cuerpo. La terapia de fracturas puede incluir la inmovilizaci\u00f3n con yeso o la utilizaci\u00f3n de dispositivos ortop\u00e9dicos para facilitar la curaci\u00f3n y recuperaci\u00f3n de los huesos fracturados.",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "Organos"
+                ],
+                [
+                    25,
+                    42,
+                    "Sistema"
+                ],
+                [
+                    243,
+                    249,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de pareja se enfoca en mejorar la comunicaci\u00f3n y resolver conflictos en las relaciones de pareja. Puede ser \u00fatil en el manejo de problemas de relaci\u00f3n y promover una convivencia saludable.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema reproductor incluye los \u00f3rganos y tejidos involucrados en la reproducci\u00f3n humana. Algunas enfermedades de transmisi\u00f3n sexual, como la s\u00edfilis, pueden requerir tratamiento con medicamentos antibi\u00f3ticos.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Sistema"
+                ],
+                [
+                    145,
+                    152,
+                    "Patogenos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de juego es una forma de terapia infantil que utiliza el juego como herramienta terap\u00e9utica para abordar problemas emocionales y promover el desarrollo saludable. Puede ser utilizada en ni\u00f1os con trastornos del desarrollo o dificultades emocionales.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia farmacol\u00f3gica implica el uso de medicamentos para tratar diversas enfermedades y trastornos. Los antibi\u00f3ticos son medicamentos comunes utilizados en el tratamiento de infecciones causadas por bacterias pat\u00f3genas.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia ocupacional se enfoca en ayudar a las personas a recuperar y mejorar su capacidad para realizar actividades de la vida diaria. Puede ser beneficiosa para personas con discapacidades f\u00edsicas o mentales.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema nervioso es responsable de coordinar las actividades y transmitir se\u00f1ales entre diferentes partes del cuerpo. La terapia de rehabilitaci\u00f3n neurol\u00f3gica se centra en ayudar a las personas a recuperar habilidades motoras y funcionales despu\u00e9s de lesiones o trastornos neurol\u00f3gicos.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Sistema"
+                ],
+                [
+                    124,
+                    149,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de grupo es una forma de terapia en la que varias personas con problemas similares se re\u00fanen para compartir experiencias y recibir apoyo mutuo. Puede ser \u00fatil en el tratamiento de trastornos de salud mental y adicciones.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El coraz\u00f3n es un \u00f3rgano vital del sistema circulatorio, encargado de bombear sangre a trav\u00e9s del cuerpo. Algunos medicamentos utilizados en el tratamiento de enfermedades cardiovasculares son los betabloqueantes y los inhibidores de la enzima convertidora de angiotensina.",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "Organos"
+                ],
+                [
+                    34,
+                    54,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia cognitivo-conductual es una forma de terapia psicol\u00f3gica que se centra en cambiar patrones de pensamiento y comportamiento negativos. Puede ser utilizada en el tratamiento de trastornos de ansiedad, depresi\u00f3n y otros problemas de salud mental.",
+        {
+            "entities": [
+                [
+                    3,
+                    31,
+                    "Terapia"
+                ],
+                [
+                    200,
+                    208,
+                    "Enfermedad"
+                ],
+                [
+                    210,
+                    219,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de exposici\u00f3n es una t\u00e9cnica utilizada en el tratamiento de trastornos de ansiedad, como el trastorno de estr\u00e9s postraum\u00e1tico. Consiste en enfrentar gradualmente los est\u00edmulos que generan miedo o ansiedad, permitiendo que la persona se acostumbre y reduzca su respuesta negativa.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Terapia"
+                ],
+                [
+                    85,
+                    93,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    103,
+                    136,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    207,
+                    215,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los m\u00fasculos son parte del sistema locomotor y son responsables de generar movimiento en el cuerpo. La terapia f\u00edsica incluye ejercicios y t\u00e9cnicas para fortalecer y rehabilitar los m\u00fasculos despu\u00e9s de lesiones o cirug\u00edas.",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "Organos"
+                ],
+                [
+                    27,
+                    44,
+                    "Sistema"
+                ],
+                [
+                    103,
+                    117,
+                    "Terapia"
+                ],
+                [
+                    182,
+                    190,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema digestivo est\u00e1 compuesto por \u00f3rganos como el est\u00f3mago, el intestino delgado y el intestino grueso, que desempe\u00f1an un papel crucial en la digesti\u00f3n de los alimentos. Algunas condiciones digestivas, como la enfermedad de Crohn, pueden requerir tratamiento con medicamentos inmunosupresores.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Sistema"
+                ],
+                [
+                    56,
+                    64,
+                    "Organos"
+                ],
+                [
+                    69,
+                    86,
+                    "Organos"
+                ],
+                [
+                    92,
+                    108,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia psicodin\u00e1mica es una forma de terapia psicol\u00f3gica que se centra en explorar los procesos inconscientes y las experiencias pasadas para comprender y resolver los problemas actuales. Puede ser utilizada en el tratamiento de trastornos de personalidad y traumas.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de aceptaci\u00f3n y compromiso es una forma de terapia conductual que se enfoca en ayudar a las personas a aceptar sus pensamientos y emociones dif\u00edciles y comprometerse en acciones que sean consistentes con sus valores y metas personales.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema endocrino est\u00e1 compuesto por gl\u00e1ndulas que producen y liberan hormonas en el cuerpo. La terapia hormonal puede ser utilizada para tratar desequilibrios hormonales y condiciones como el hipotiroidismo o la menopausia.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Sistema"
+                ],
+                [
+                    99,
+                    115,
+                    "Terapia"
+                ],
+                [
+                    196,
+                    210,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    216,
+                    226,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La fisioterapia es una forma de terapia f\u00edsica que utiliza t\u00e9cnicas manuales y ejercicios terap\u00e9uticos para tratar lesiones musculoesquel\u00e9ticas y mejorar la funci\u00f3n f\u00edsica. Puede ser \u00fatil en el tratamiento de problemas como el dolor de espalda o la recuperaci\u00f3n de una cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "Terapia"
+                ],
+                [
+                    32,
+                    46,
+                    "Terapia"
+                ],
+                [
+                    227,
+                    243,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    269,
+                    276,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los pat\u00f3genos son organismos como bacterias, virus o par\u00e1sitos que pueden causar enfermedades en los seres humanos. Algunos medicamentos antivirales se utilizan en el tratamiento de infecciones virales como la gripe o el herpes.",
+        {
+            "entities": [
+                [
+                    210,
+                    215,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    221,
+                    227,
+                    "Patogenos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de pareja se enfoca en mejorar la comunicaci\u00f3n y resolver problemas en las relaciones de pareja. Puede ser beneficiosa para parejas que enfrentan dificultades en su relaci\u00f3n o desean fortalecerla.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema reproductor incluye \u00f3rganos como los ovarios y los test\u00edculos, responsables de la producci\u00f3n de gametos y hormonas sexuales. Algunos medicamentos hormonales se utilizan en la terapia de reemplazo hormonal o en el tratamiento de trastornos como la disfunci\u00f3n er\u00e9ctil.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Sistema"
+                ],
+                [
+                    48,
+                    55,
+                    "Organos"
+                ],
+                [
+                    62,
+                    72,
+                    "Organos"
+                ],
+                [
+                    258,
+                    276,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de masajes utiliza t\u00e9cnicas manuales para aliviar el dolor, reducir la tensi\u00f3n muscular y promover la relajaci\u00f3n. Puede ser beneficiosa en el tratamiento de condiciones como la fibromialgia o el estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    21,
+                    "Terapia"
+                ],
+                [
+                    188,
+                    200,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia ocupacional se centra en ayudar a las personas a participar en actividades significativas y funcionales en su vida diaria. Puede ser utilizada en el tratamiento de trastornos f\u00edsicos o mentales que afectan la capacidad de realizar tareas cotidianas.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema excretor, que incluye los ri\u00f1ones y la vejiga, es responsable de eliminar los desechos y regular el equilibrio de l\u00edquidos en el cuerpo. Algunos medicamentos diur\u00e9ticos se utilizan para aumentar la producci\u00f3n de orina y tratar condiciones como la hipertensi\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Sistema"
+                ],
+                [
+                    37,
+                    44,
+                    "Organos"
+                ],
+                [
+                    50,
+                    56,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de grupo ofrece un entorno de apoyo y aprendizaje compartido, donde las personas pueden trabajar juntas para abordar sus desaf\u00edos emocionales o de comportamiento. Puede ser utilizada en el tratamiento de trastornos adictivos o trastornos de la alimentaci\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia con animales, como la terapia asistida por perros, utiliza la interacci\u00f3n con animales entrenados para mejorar el bienestar emocional y f\u00edsico de las personas. Puede ser beneficiosa en el tratamiento de trastornos de ansiedad o depresi\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    23,
+                    "Terapia"
+                ],
+                [
+                    228,
+                    236,
+                    "Enfermedad"
+                ],
+                [
+                    239,
+                    248,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema respiratorio es responsable de la respiraci\u00f3n y la oxigenaci\u00f3n del cuerpo. La terapia de respiraci\u00f3n se utiliza para mejorar la funci\u00f3n pulmonar en personas con enfermedades respiratorias como el asma o la enfermedad pulmonar obstructiva cr\u00f3nica.",
+        {
+            "entities": [
+                [
+                    3,
+                    23,
+                    "Sistema"
+                ],
+                [
+                    89,
+                    111,
+                    "Terapia"
+                ],
+                [
+                    207,
+                    211,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema nervioso coordina y controla las funciones del cuerpo. La terapia cognitivo-conductual se utiliza para tratar trastornos mentales y emocionales al abordar los pensamientos y comportamientos negativos y promover cambios positivos.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Sistema"
+                ],
+                [
+                    69,
+                    97,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de relajaci\u00f3n utiliza t\u00e9cnicas como la respiraci\u00f3n profunda, la meditaci\u00f3n y el yoga para reducir el estr\u00e9s y promover la relajaci\u00f3n. Puede ser beneficiosa en el manejo de condiciones como la ansiedad o el insomnio.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Terapia"
+                ],
+                [
+                    203,
+                    211,
+                    "Enfermedad"
+                ],
+                [
+                    217,
+                    225,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los m\u00fasculos son tejidos que permiten el movimiento del cuerpo. La terapia f\u00edsica se utiliza para fortalecer los m\u00fasculos, mejorar la movilidad y promover la recuperaci\u00f3n despu\u00e9s de lesiones o cirug\u00edas.",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "Organos"
+                ],
+                [
+                    67,
+                    81,
+                    "Terapia"
+                ],
+                [
+                    113,
+                    121,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los medicamentos antibi\u00f3ticos se utilizan para tratar infecciones bacterianas como la neumon\u00eda o la infecci\u00f3n de las v\u00edas urinarias. Estos medicamentos ayudan a matar o inhibir el crecimiento de bacterias perjudiciales en el cuerpo.",
+        {
+            "entities": [
+                [
+                    86,
+                    94,
+                    "Patogenos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de grupo brinda un entorno de apoyo y comprensi\u00f3n mutua, donde los participantes pueden compartir experiencias y aprender estrategias para manejar sus desaf\u00edos. Puede ser \u00fatil en el tratamiento de trastornos de salud mental como la depresi\u00f3n o el trastorno de estr\u00e9s postraum\u00e1tico.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ],
+                [
+                    243,
+                    252,
+                    "Enfermedad"
+                ],
+                [
+                    258,
+                    291,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema circulatorio transporta sangre y nutrientes por todo el cuerpo. La terapia farmacol\u00f3gica incluye el uso de medicamentos para tratar enfermedades del sistema circulatorio, como la hipertensi\u00f3n arterial o la insuficiencia card\u00edaca.",
+        {
+            "entities": [
+                [
+                    3,
+                    23,
+                    "Sistema"
+                ],
+                [
+                    78,
+                    99,
+                    "Terapia"
+                ],
+                [
+                    160,
+                    180,
+                    "Sistema"
+                ],
+                [
+                    190,
+                    211,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    217,
+                    239,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de expresi\u00f3n art\u00edstica utiliza diversas formas de arte, como la pintura, la m\u00fasica o la escritura, para ayudar a las personas a expresar emociones y promover la curaci\u00f3n emocional. Puede ser beneficiosa en el tratamiento de trastornos de la salud mental o traumas.",
+        {
+            "entities": [
+                [
+                    3,
+                    33,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los \u00f3rganos desempe\u00f1an funciones espec\u00edficas en el cuerpo. La terapia hormonal sustitutiva se utiliza para reemplazar hormonas que el cuerpo no produce en cantidades adecuadas, como en el caso de la menopausia o el hipotiroidismo.",
+        {
+            "entities": [
+                [
+                    62,
+                    90,
+                    "Terapia"
+                ],
+                [
+                    199,
+                    209,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    215,
+                    229,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia ocupacional ayuda a las personas a desarrollar habilidades y estrategias para realizar actividades cotidianas de manera independiente. Puede ser utilizada en el tratamiento de trastornos f\u00edsicos, cognitivos o emocionales que afectan la funcionalidad.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de aceptaci\u00f3n y compromiso se basa en el enfoque de aceptar los pensamientos y emociones negativas, mientras se compromete a tomar acciones que est\u00e9n alineadas con los valores y metas personales. Es \u00fatil en el tratamiento de trastornos de ansiedad o depresi\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Terapia"
+                ],
+                [
+                    250,
+                    258,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    261,
+                    270,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema excretor es responsable de eliminar los desechos y toxinas del cuerpo. La terapia de di\u00e1lisis se utiliza en personas con enfermedad renal cr\u00f3nica para filtrar y purificar la sangre cuando los ri\u00f1ones no pueden hacerlo de manera efectiva.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Sistema"
+                ],
+                [
+                    132,
+                    156,
+                    "Enfermedad"
+                ],
+                [
+                    203,
+                    210,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema locomotor incluye los huesos, m\u00fasculos, articulaciones y tejidos conectivos que permiten el movimiento. La terapia de rehabilitaci\u00f3n f\u00edsica se enfoca en restaurar la funci\u00f3n y movilidad despu\u00e9s de lesiones o cirug\u00edas que afectan el sistema locomotor.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Sistema"
+                ],
+                [
+                    33,
+                    39,
+                    "Organos"
+                ],
+                [
+                    41,
+                    49,
+                    "Organos"
+                ],
+                [
+                    51,
+                    65,
+                    "Organos"
+                ],
+                [
+                    118,
+                    143,
+                    "Terapia"
+                ],
+                [
+                    243,
+                    260,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de sonido utiliza frecuencias y vibraciones para estimular el cuerpo y promover la relajaci\u00f3n y el bienestar. Puede ser utilizada en el tratamiento del estr\u00e9s, el dolor cr\u00f3nico o trastornos del sue\u00f1o.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia con animales, tambi\u00e9n conocida como terapia asistida por animales, utiliza la interacci\u00f3n con animales para mejorar la salud f\u00edsica, emocional o cognitiva de las personas. Puede ser beneficiosa en el tratamiento de trastornos del estado de \u00e1nimo o discapacidades f\u00edsicas.",
+        {
+            "entities": [
+                [
+                    3,
+                    23,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia electroconvulsiva es un tratamiento utilizado en casos graves de trastornos de salud mental, como la depresi\u00f3n resistente al tratamiento. Implica la administraci\u00f3n controlada de una corriente el\u00e9ctrica para inducir una convulsi\u00f3n terap\u00e9utica.",
+        {
+            "entities": [
+                [
+                    3,
+                    28,
+                    "Terapia"
+                ],
+                [
+                    112,
+                    121,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema endocrino regula las hormonas en el cuerpo. La terapia hormonal se utiliza para equilibrar los niveles hormonales en casos de deficiencias o trastornos endocrinos, como el hipotiroidismo o la menopausia.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Sistema"
+                ],
+                [
+                    58,
+                    74,
+                    "Terapia"
+                ],
+                [
+                    183,
+                    197,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    203,
+                    213,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de grupo familiar involucra a todos los miembros de una familia en un proceso terap\u00e9utico para abordar problemas y mejorar las din\u00e1micas familiares. Puede ser \u00fatil en el tratamiento de conflictos familiares o trastornos de la conducta.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia basada en mindfulness se centra en la conciencia plena y la atenci\u00f3n plena en el momento presente. Ayuda a reducir el estr\u00e9s, mejorar el enfoque y promover el bienestar emocional en diversas condiciones de salud mental.",
+        {
+            "entities": [
+                [
+                    3,
+                    32,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia con imanes, conocida como magnetoterapia, utiliza campos magn\u00e9ticos para estimular el cuerpo y promover la curaci\u00f3n. Se utiliza en el tratamiento de dolor cr\u00f3nico, lesiones musculares y trastornos articulares.",
+        {
+            "entities": [
+                [
+                    3,
+                    21,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de expresi\u00f3n art\u00edstica se basa en el uso de diferentes formas de arte, como la pintura, la m\u00fasica o la danza, como medio de expresi\u00f3n y liberaci\u00f3n emocional. Puede ser beneficiosa en el tratamiento de trastornos emocionales o traumas.",
+        {
+            "entities": [
+                [
+                    3,
+                    33,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "El sistema nervioso es responsable de transmitir se\u00f1ales entre el cerebro y el resto del cuerpo. La terapia ocupacional se centra en mejorar las habilidades motoras y cognitivas para realizar actividades diarias, especialmente despu\u00e9s de lesiones o trastornos neurol\u00f3gicos.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Sistema"
+                ],
+                [
+                    66,
+                    73,
+                    "Organos"
+                ],
+                [
+                    100,
+                    119,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia con realidad virtual utiliza tecnolog\u00eda de simulaci\u00f3n para crear entornos virtuales que permiten a las personas experimentar situaciones de la vida real. Se utiliza en el tratamiento de trastornos de ansiedad, fobias o trastornos de estr\u00e9s postraum\u00e1tico.",
+        {
+            "entities": [
+                [
+                    3,
+                    31,
+                    "Terapia"
+                ],
+                [
+                    211,
+                    219,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia floral, tambi\u00e9n conocida como terapia de flores de Bach, utiliza esencias florales para abordar desequilibrios emocionales y promover el bienestar emocional y mental. Se utiliza en el tratamiento de ansiedad, depresi\u00f3n y estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    17,
+                    "Terapia"
+                ],
+                [
+                    210,
+                    218,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    220,
+                    229,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia hormonal para la menopausia se utiliza para aliviar los s\u00edntomas asociados con la menopausia, como los sofocos, la sequedad vaginal y los cambios de humor. Consiste en la administraci\u00f3n de hormonas para reemplazar las que disminuyen durante esta etapa.",
+        {
+            "entities": [
+                [
+                    3,
+                    38,
+                    "Terapia"
+                ],
+                [
+                    93,
+                    103,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia asistida por equinos, tambi\u00e9n conocida como equinoterapia, utiliza la interacci\u00f3n con caballos para promover el desarrollo f\u00edsico, emocional y psicol\u00f3gico de las personas. Se utiliza en el tratamiento de trastornos del desarrollo, discapacidades f\u00edsicas o trastornos de la conducta.",
+        {
+            "entities": [
+                [
+                    3,
+                    31,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia psicoeducativa combina elementos de la terapia psicol\u00f3gica con la educaci\u00f3n sobre la condici\u00f3n m\u00e9dica o el trastorno mental. Ayuda a las personas a comprender y manejar mejor su situaci\u00f3n, brindando herramientas y estrategias para enfrentar los desaf\u00edos.",
+        {
+            "entities": [
+                [
+                    3,
+                    25,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de relajaci\u00f3n progresiva es una t\u00e9cnica de relajaci\u00f3n que consiste en tensar y relajar diferentes grupos musculares del cuerpo. Ayuda a reducir el estr\u00e9s, la ansiedad y promueve la relajaci\u00f3n profunda.",
+        {
+            "entities": [
+                [
+                    3,
+                    35,
+                    "Terapia"
+                ],
+                [
+                    169,
+                    177,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia craneosacral se centra en el sistema nervioso central, especialmente en la columna vertebral y el cr\u00e1neo. Utiliza t\u00e9cnicas manuales suaves para liberar tensiones y restaurar el equilibrio en el sistema nervioso.",
+        {
+            "entities": [
+                [
+                    3,
+                    23,
+                    "Terapia"
+                ],
+                [
+                    40,
+                    56,
+                    "Sistema"
+                ],
+                [
+                    205,
+                    221,
+                    "Sistema"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia con ventosas se basa en la aplicaci\u00f3n de copas de vidrio o pl\u00e1stico en la piel para crear succi\u00f3n y mejorar la circulaci\u00f3n sangu\u00ednea. Se utiliza en el tratamiento de dolor muscular, inflamaci\u00f3n y para promover la relajaci\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    23,
+                    "Terapia"
+                ],
+                [
+                    85,
+                    89,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de movimiento ocular, tambi\u00e9n conocida como EMDR (Eye Movement Desensitization and Reprocessing), se utiliza en el tratamiento de traumas y trastornos de estr\u00e9s postraum\u00e1tico. Implica seguir movimientos oculares espec\u00edficos mientras se recuerdan eventos traum\u00e1ticos para procesarlos y reducir su impacto emocional.",
+        {
+            "entities": [
+                [
+                    3,
+                    31,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de integraci\u00f3n sensorial se enfoca en estimular y regular los sentidos para mejorar la capacidad de procesamiento sensorial y la respuesta adaptativa. Se utiliza en el tratamiento de trastornos del procesamiento sensorial en ni\u00f1os y adultos.",
+        {
+            "entities": [
+                [
+                    3,
+                    35,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La psicoterapia, tambi\u00e9n conocida como terapia de conversaci\u00f3n, es un enfoque terap\u00e9utico que involucra el di\u00e1logo y la interacci\u00f3n entre el terapeuta y el paciente. Se utiliza en el tratamiento de una amplia gama de problemas de salud mental y emocional.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia ocupacional se enfoca en ayudar a las personas a realizar actividades diarias de manera independiente y significativa. Se utiliza en el tratamiento de lesiones, discapacidades f\u00edsicas o trastornos del desarrollo.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia f\u00edsica, tambi\u00e9n conocida como fisioterapia, se centra en mejorar la movilidad, la fuerza y la funci\u00f3n f\u00edsica. Se utiliza en el tratamiento de lesiones musculoesquel\u00e9ticas, trastornos neurol\u00f3gicos y rehabilitaci\u00f3n despu\u00e9s de cirug\u00edas.",
+        {
+            "entities": [
+                [
+                    3,
+                    17,
+                    "Terapia"
+                ],
+                [
+                    41,
+                    53,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de pareja, tambi\u00e9n conocida como terapia matrimonial, se enfoca en mejorar la comunicaci\u00f3n y la relaci\u00f3n entre dos personas. Se utiliza en el tratamiento de conflictos matrimoniales, problemas de intimidad o dificultades de relaci\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia de grupo es un enfoque terap\u00e9utico que involucra a varias personas con problemas similares que se re\u00fanen regularmente para compartir experiencias, recibir apoyo y aprender habilidades de afrontamiento. Se utiliza en el tratamiento de trastornos de ansiedad, adicciones y trastornos del estado de \u00e1nimo.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ],
+                [
+                    259,
+                    267,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia individual se centra en el trabajo terap\u00e9utico entre el terapeuta y el individuo. Se utiliza para abordar problemas de salud mental, traumas, trastornos del estado de \u00e1nimo o mejorar el bienestar emocional y psicol\u00f3gico.",
+        {
+            "entities": [
+                [
+                    3,
+                    21,
+                    "Terapia"
+                ]
+            ]
+        }
+    ],
+    [
+        "La terapia familiar se enfoca en el sistema familiar como un todo, buscando mejorar las relaciones, la comunicaci\u00f3n y resolver conflictos. Se utiliza en el tratamiento de problemas familiares, trastornos del comportamiento en ni\u00f1os o adolescentes, y en la terapia de pareja.",
+        {
+            "entities": [
+                [
+                    3,
+                    19,
+                    "Terapia"
+                ],
+                [
+                    256,
+                    273,
+                    "Terapia"
+                ]
+            ]
+        }
+    ]
+]

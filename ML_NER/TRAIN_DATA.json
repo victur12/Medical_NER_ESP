@@ -1,0 +1,1721 @@
+[
+    [
+        "La diabetes es una enfermedad cr\u00f3nica que afecta la forma en que el cuerpo procesa la glucosa en sangre. Los s\u00edntomas pueden incluir sed excesiva, micci\u00f3n frecuente, p\u00e9rdida de peso y fatiga. El tratamiento incluye cambios en la dieta, ejercicio regular, medicamentos y control regular del az\u00facar en la sangre.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El c\u00e1ncer de mama es un tipo de c\u00e1ncer que se forma en las c\u00e9lulas de la mama. Los s\u00edntomas pueden incluir un bulto en el seno, cambios en el tama\u00f1o o forma del seno y secreci\u00f3n del pez\u00f3n. El tratamiento puede incluir cirug\u00eda, radioterapia, quimioterapia y terapia hormonal.",
+        {
+            "entities": [
+                [
+                    3,
+                    17,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    32,
+                    38,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La hipertensi\u00f3n arterial, tambi\u00e9n conocida como presi\u00f3n arterial alta, es una afecci\u00f3n en la cual la fuerza del flujo sangu\u00edneo contra las paredes de las arterias es demasiado alta. El tratamiento puede incluir cambios en el estilo de vida, como una dieta saludable y ejercicio regular, as\u00ed como medicamentos para controlar la presi\u00f3n arterial.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    154,
+                    162,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La depresi\u00f3n es un trastorno del estado de \u00e1nimo que causa una sensaci\u00f3n persistente de tristeza y p\u00e9rdida de inter\u00e9s en las actividades diarias. Los s\u00edntomas pueden incluir cambios en el apetito, falta de energ\u00eda, dificultad para concentrarse y pensamientos de suicidio. El tratamiento puede incluir psicoterapia y medicamentos antidepresivos.",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    19,
+                    48,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El asma es una enfermedad cr\u00f3nica de las v\u00edas respiratorias que causa inflamaci\u00f3n y estrechamiento de los bronquios, dificultando la respiraci\u00f3n. Los s\u00edntomas pueden incluir sibilancias, opresi\u00f3n en el pecho y tos. El tratamiento incluye medicamentos inhalados para controlar la inflamaci\u00f3n y los s\u00edntomas agudos, as\u00ed como evitar los desencadenantes del asma.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    106,
+                    115,
+                    "Organos"
+                ],
+                [
+                    210,
+                    213,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    354,
+                    358,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad pulmonar obstructiva cr\u00f3nica (EPOC) es una enfermedad pulmonar progresiva que dificulta la respiraci\u00f3n. Los s\u00edntomas pueden incluir tos cr\u00f3nica, producci\u00f3n de esputo y falta de aliento. El tratamiento incluye medicamentos para abrir las v\u00edas respiratorias, terapia de rehabilitaci\u00f3n pulmonar y evitar el humo y la contaminaci\u00f3n ambiental.",
+        {
+            "entities": [
+                [
+                    146,
+                    149,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La migra\u00f1a es un trastorno neurol\u00f3gico caracterizado por ataques recurrentes de dolor de cabeza intenso, a menudo acompa\u00f1ados de n\u00e1useas, v\u00f3mitos y sensibilidad a la luz y al sonido. El tratamiento puede incluir medicamentos para aliviar el dolor y prevenir los ataques, as\u00ed como cambios en el estilo de vida para identificar y evitar los desencadenantes de las migra\u00f1as.",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    80,
+                    95,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    129,
+                    136,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    138,
+                    145,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad inflamatoria intestinal (EII) es un t\u00e9rmino que engloba a la enfermedad de Crohn y la colitis ulcerosa, trastornos cr\u00f3nicos que causan inflamaci\u00f3n en el tracto gastrointestinal. Los s\u00edntomas pueden incluir diarrea cr\u00f3nica, dolor abdominal y p\u00e9rdida de peso. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n, cambios en la dieta y, en algunos casos, cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Enfermedad"
+                ],
+                [
+                    100,
+                    107,
+                    "Enfermedad"
+                ],
+                [
+                    220,
+                    227,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La anemia es una afecci\u00f3n en la cual el cuerpo no produce suficientes gl\u00f3bulos rojos sanos. Los s\u00edntomas pueden incluir fatiga, debilidad, palidez y falta de aliento. El tratamiento depende de la causa subyacente de la anemia e puede incluir suplementos de hierro, medicamentos y cambios en la dieta.",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    219,
+                    225,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La hipotiroidismo es una afecci\u00f3n en la cual la gl\u00e1ndula tiroides no produce suficiente hormona tiroidea. Los s\u00edntomas pueden incluir fatiga, aumento de peso, depresi\u00f3n y sensibilidad al fr\u00edo. El tratamiento implica la administraci\u00f3n de hormona tiroidea sint\u00e9tica para compensar la deficiencia hormonal.",
+        {
+            "entities": [
+                [
+                    3,
+                    17,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    57,
+                    65,
+                    "Organos"
+                ],
+                [
+                    159,
+                    168,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El glaucoma es un grupo de enfermedades oculares que pueden da\u00f1ar el nervio \u00f3ptico y afectar la visi\u00f3n. Los s\u00edntomas pueden incluir visi\u00f3n borrosa, dolor de cabeza, visi\u00f3n de t\u00fanel y p\u00e9rdida gradual de la visi\u00f3n. El tratamiento puede incluir medicamentos para reducir la presi\u00f3n ocular, cirug\u00eda y terapia l\u00e1ser.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Enfermedad"
+                ],
+                [
+                    148,
+                    163,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La esquizofrenia es un trastorno mental cr\u00f3nico que afecta la percepci\u00f3n, el pensamiento y el comportamiento. Los s\u00edntomas pueden incluir alucinaciones, delirios, dificultad para concentrarse y cambios en el estado de \u00e1nimo. El tratamiento puede incluir medicamentos antipsic\u00f3ticos y terapia psicoterap\u00e9utica.",
+        {
+            "entities": [
+                [
+                    3,
+                    16,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad card\u00edaca coronaria es una enfermedad en la cual las arterias que suministran sangre al coraz\u00f3n se estrechan o bloquean debido a la acumulaci\u00f3n de placa. Los s\u00edntomas pueden incluir dolor en el pecho, dificultad para respirar y fatiga. El tratamiento puede incluir cambios en el estilo de vida, medicamentos y cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    66,
+                    74,
+                    "Organos"
+                ],
+                [
+                    101,
+                    108,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La ansiedad es una respuesta emocional caracterizada por sentimientos de tensi\u00f3n, preocupaci\u00f3n y miedo. Los s\u00edntomas pueden incluir palpitaciones, sudoraci\u00f3n, dificultad para dormir y problemas de concentraci\u00f3n. El tratamiento puede incluir terapia cognitivo-conductual, medicamentos y t\u00e9cnicas de relajaci\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La osteoporosis es una enfermedad en la cual los huesos se vuelven fr\u00e1giles y propensos a fracturarse. Los s\u00edntomas pueden incluir dolor \u00f3seo, encorvamiento de la columna vertebral y p\u00e9rdida de estatura. El tratamiento puede incluir cambios en la dieta, suplementos de calcio y vitamina D, y medicamentos para fortalecer los huesos.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "Enfermedad"
+                ],
+                [
+                    49,
+                    55,
+                    "Organos"
+                ],
+                [
+                    269,
+                    275,
+                    "Medicina"
+                ],
+                [
+                    325,
+                    331,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad renal cr\u00f3nica es una afecci\u00f3n en la cual los ri\u00f1ones no funcionan adecuadamente y no pueden filtrar los desechos y el exceso de l\u00edquidos de la sangre. Los s\u00edntomas pueden incluir fatiga, hinchaz\u00f3n en las extremidades y cambios en la micci\u00f3n. El tratamiento puede incluir cambios en la dieta, medicamentos y di\u00e1lisis.",
+        {
+            "entities": [
+                [
+                    3,
+                    27,
+                    "Enfermedad"
+                ],
+                [
+                    59,
+                    66,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La artritis reumatoide es una enfermedad autoinmune cr\u00f3nica que causa inflamaci\u00f3n en las articulaciones. Los s\u00edntomas pueden incluir dolor, hinchaz\u00f3n y rigidez en las articulaciones, as\u00ed como fatiga y debilidad generalizada. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n y el dolor, as\u00ed como terapia f\u00edsica y ocupacional.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    89,
+                    103,
+                    "Organos"
+                ],
+                [
+                    167,
+                    181,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de ansiedad generalizada (TAG) es un trastorno de salud mental caracterizado por ansiedad y preocupaci\u00f3n excesivas sobre diversas situaciones y eventos. Los s\u00edntomas pueden incluir inquietud, irritabilidad, tensi\u00f3n muscular y dificultad para concentrarse. El tratamiento puede incluir terapia cognitivo-conductual y medicamentos para reducir la ansiedad.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    94,
+                    102,
+                    "Enfermedad"
+                ],
+                [
+                    358,
+                    366,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de Alzheimer es una enfermedad neurodegenerativa progresiva que afecta la memoria, el pensamiento y el comportamiento. Los s\u00edntomas pueden incluir p\u00e9rdida de memoria, confusi\u00f3n, cambios en el estado de \u00e1nimo y dificultad para realizar tareas diarias. Actualmente, no hay cura para la enfermedad de Alzheimer, pero hay tratamientos disponibles para controlar los s\u00edntomas y ralentizar su progresi\u00f3n.",
+        {
+            "entities": [
+                [
+                    17,
+                    26,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    312,
+                    321,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La endometriosis es una afecci\u00f3n en la cual el tejido que normalmente recubre el \u00fatero crece fuera de \u00e9l, causando dolor y otros s\u00edntomas. Los s\u00edntomas pueden incluir dolor p\u00e9lvico intenso, per\u00edodos menstruales dolorosos y problemas de fertilidad. El tratamiento puede incluir medicamentos para aliviar el dolor y, en algunos casos, cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    3,
+                    16,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    81,
+                    86,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno bipolar es un trastorno del estado de \u00e1nimo caracterizado por cambios extremos en el estado de \u00e1nimo, que van desde episodios de euforia y energ\u00eda excesiva hasta episodios de depresi\u00f3n profunda. Los s\u00edntomas pueden incluir cambios en el sue\u00f1o, pensamiento acelerado, irritabilidad y comportamiento impulsivo. El tratamiento puede incluir medicamentos estabilizadores del estado de \u00e1nimo y terapia psicoterap\u00e9utica.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Enfermedad"
+                ],
+                [
+                    27,
+                    56,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    188,
+                    197,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El vitiligo es una enfermedad de la piel que causa la p\u00e9rdida de pigmento en ciertas \u00e1reas, lo que resulta en manchas blancas en la piel. Los s\u00edntomas pueden incluir despigmentaci\u00f3n gradual de la piel, especialmente en el rostro, las manos y los genitales. Actualmente no existe cura para el vitiligo, pero existen tratamientos disponibles para ayudar a mejorar la apariencia de la piel.",
+        {
+            "entities": [
+                [
+                    36,
+                    40,
+                    "Organos"
+                ],
+                [
+                    132,
+                    136,
+                    "Organos"
+                ],
+                [
+                    196,
+                    200,
+                    "Organos"
+                ],
+                [
+                    382,
+                    386,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de Lyme es una infecci\u00f3n bacteriana transmitida por garrapatas. Los s\u00edntomas pueden incluir erupci\u00f3n cut\u00e1nea en forma de diana, fiebre, fatiga y dolor muscular y articular. El tratamiento generalmente involucra el uso de antibi\u00f3ticos para eliminar la infecci\u00f3n.",
+        {
+            "entities": [
+                [
+                    142,
+                    148,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La esclerosis m\u00faltiple es una enfermedad autoinmune que afecta el sistema nervioso central. Los s\u00edntomas pueden incluir fatiga, dificultad para caminar, entumecimiento o debilidad en las extremidades, problemas de coordinaci\u00f3n y problemas de visi\u00f3n. El tratamiento puede incluir medicamentos para controlar los s\u00edntomas y terapia de rehabilitaci\u00f3n para mejorar la funci\u00f3n motora.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La bulimia nerviosa es un trastorno de la alimentaci\u00f3n caracterizado por episodios recurrentes de atracones de comida seguidos de comportamientos compensatorios, como el v\u00f3mito autoinducido o el uso excesivo de laxantes. Los s\u00edntomas pueden incluir preocupaci\u00f3n excesiva por el peso y la apariencia, cambios en los patrones de alimentaci\u00f3n y problemas de salud relacionados con la desnutrici\u00f3n y los v\u00f3mitos frecuentes. El tratamiento puede incluir terapia psicoterap\u00e9utica y supervisi\u00f3n m\u00e9dica.",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    26,
+                    54,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    400,
+                    407,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La esclerosis lateral amiotr\u00f3fica (ELA) es una enfermedad neurodegenerativa que afecta las c\u00e9lulas nerviosas responsables del control de los m\u00fasculos voluntarios. Los s\u00edntomas pueden incluir debilidad muscular, espasmos musculares, dificultad para hablar y tragar, y eventualmente par\u00e1lisis. No existe cura para la ELA, pero el tratamiento puede ayudar a controlar los s\u00edntomas y mejorar la calidad de vida.",
+        {
+            "entities": [
+                [
+                    141,
+                    149,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La celulitis es una infecci\u00f3n bacteriana de la piel que causa enrojecimiento, inflamaci\u00f3n y dolor. Los s\u00edntomas pueden incluir calor y sensibilidad en el \u00e1rea afectada, fiebre y escalofr\u00edos. El tratamiento generalmente involucra el uso de antibi\u00f3ticos para eliminar la infecci\u00f3n y medidas para aliviar los s\u00edntomas.",
+        {
+            "entities": [
+                [
+                    47,
+                    51,
+                    "Organos"
+                ],
+                [
+                    169,
+                    175,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La gastroenteritis es una inflamaci\u00f3n del est\u00f3mago y los intestinos generalmente causada por una infecci\u00f3n viral o bacteriana. Los s\u00edntomas pueden incluir n\u00e1useas, v\u00f3mitos, diarrea, dolor abdominal y fiebre. El tratamiento implica descansar, mantenerse hidratado y tomar medicamentos para aliviar los s\u00edntomas.",
+        {
+            "entities": [
+                [
+                    42,
+                    50,
+                    "Organos"
+                ],
+                [
+                    155,
+                    162,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    164,
+                    171,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    173,
+                    180,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    200,
+                    206,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El melanoma es un tipo de c\u00e1ncer de piel que se forma en las c\u00e9lulas que producen el pigmento de la piel. Los s\u00edntomas pueden incluir cambios en la forma, el color o el tama\u00f1o de un lunar existente, la aparici\u00f3n de un nuevo lunar o la aparici\u00f3n de una \u00falcera cut\u00e1nea que no cicatriza. El tratamiento puede incluir cirug\u00eda, radioterapia y quimioterapia, dependiendo del estadio del c\u00e1ncer.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    26,
+                    32,
+                    "Enfermedad"
+                ],
+                [
+                    36,
+                    40,
+                    "Organos"
+                ],
+                [
+                    100,
+                    104,
+                    "Organos"
+                ],
+                [
+                    381,
+                    387,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La neumon\u00eda es una infecci\u00f3n respiratoria que afecta los pulmones. Los s\u00edntomas pueden incluir fiebre, tos, dificultad para respirar, dolor en el pecho y escalofr\u00edos. El tratamiento generalmente implica el uso de antibi\u00f3ticos para eliminar la infecci\u00f3n y medidas de cuidados de apoyo para aliviar los s\u00edntomas.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Patogenos"
+                ],
+                [
+                    57,
+                    65,
+                    "Organos"
+                ],
+                [
+                    95,
+                    101,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    103,
+                    106,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La gastritis es una inflamaci\u00f3n del revestimiento del est\u00f3mago. Los s\u00edntomas pueden incluir dolor abdominal, n\u00e1useas, v\u00f3mitos, sensaci\u00f3n de plenitud despu\u00e9s de comer y p\u00e9rdida de apetito. El tratamiento puede incluir cambios en la dieta, medicamentos para reducir la producci\u00f3n de \u00e1cido estomacal y tratamientos para aliviar los s\u00edntomas.",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    54,
+                    62,
+                    "Organos"
+                ],
+                [
+                    109,
+                    116,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    118,
+                    125,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de la personalidad borderline (TPB) es un trastorno de salud mental caracterizado por la inestabilidad emocional, los cambios r\u00e1pidos de humor, la impulsividad y la dificultad para mantener relaciones estables. Los s\u00edntomas pueden incluir comportamientos autodestructivos, miedo al abandono, sentimientos de vac\u00edo y cambios extremos en la autoimagen. El tratamiento puede incluir terapia psicoterap\u00e9utica y medicamentos para controlar los s\u00edntomas asociados.",
+        {
+            "entities": [
+                [
+                    3,
+                    31,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La fibromialgia es un trastorno caracterizado por dolor cr\u00f3nico generalizado en los m\u00fasculos y tejidos blandos circundantes. Los s\u00edntomas pueden incluir fatiga, problemas de sue\u00f1o, rigidez muscular y dificultad para concentrarse. El tratamiento puede incluir medicamentos para controlar el dolor, terapia f\u00edsica y t\u00e9cnicas de manejo del estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    84,
+                    92,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de Crohn es un tipo de enfermedad inflamatoria intestinal que causa inflamaci\u00f3n cr\u00f3nica del tracto gastrointestinal. Los s\u00edntomas pueden incluir dolor abdominal, diarrea cr\u00f3nica, p\u00e9rdida de peso y fatiga. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n, cambios en la dieta y, en algunos casos, cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    37,
+                    71,
+                    "Enfermedad"
+                ],
+                [
+                    176,
+                    183,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de la tiroides es un trastorno en el cual la gl\u00e1ndula tiroides produce demasiada o demasiado poca hormona tiroidea. Los s\u00edntomas pueden variar dependiendo del tipo de trastorno de la tiroides, pero pueden incluir fatiga, cambios en el peso, sensibilidad al fr\u00edo o al calor, y problemas de concentraci\u00f3n. El tratamiento puede incluir medicamentos para regular los niveles hormonales y cirug\u00eda en algunos casos.",
+        {
+            "entities": [
+                [
+                    20,
+                    28,
+                    "Organos"
+                ],
+                [
+                    68,
+                    76,
+                    "Organos"
+                ],
+                [
+                    197,
+                    205,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La insuficiencia card\u00edaca es una condici\u00f3n en la cual el coraz\u00f3n no puede bombear suficiente sangre para satisfacer las necesidades del cuerpo. Los s\u00edntomas pueden incluir fatiga, dificultad para respirar, acumulaci\u00f3n de l\u00edquido en los tejidos y ritmo card\u00edaco r\u00e1pido o irregular. El tratamiento puede incluir cambios en el estilo de vida, medicamentos y dispositivos m\u00e9dicos para ayudar al coraz\u00f3n a funcionar correctamente.",
+        {
+            "entities": [
+                [
+                    3,
+                    25,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    57,
+                    64,
+                    "Organos"
+                ],
+                [
+                    391,
+                    398,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El asma es una enfermedad cr\u00f3nica de las v\u00edas respiratorias que causa inflamaci\u00f3n y estrechamiento de los bronquios, lo que dificulta la respiraci\u00f3n. Los s\u00edntomas pueden incluir sibilancias, tos, dificultad para respirar y opresi\u00f3n en el pecho. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n y los s\u00edntomas, as\u00ed como cambios en el estilo de vida para evitar los desencadenantes del asma.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    106,
+                    115,
+                    "Organos"
+                ],
+                [
+                    191,
+                    194,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    407,
+                    411,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La diabetes mellitus es una enfermedad cr\u00f3nica en la cual los niveles de az\u00facar en sangre est\u00e1n elevados debido a la falta de producci\u00f3n de insulina o a la resistencia a la insulina. Los s\u00edntomas pueden incluir sed excesiva, micci\u00f3n frecuente, fatiga, p\u00e9rdida de peso y heridas que no cicatrizan adecuadamente. El tratamiento puede incluir cambios en la dieta, ejercicio, medicamentos y uso de insulina.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La depresi\u00f3n es un trastorno del estado de \u00e1nimo que causa una profunda sensaci\u00f3n de tristeza, desesperanza y falta de inter\u00e9s en las actividades diarias. Los s\u00edntomas pueden incluir cambios en el apetito y el sue\u00f1o, falta de energ\u00eda, dificultad para concentrarse y pensamientos de muerte o suicidio. El tratamiento puede incluir terapia psicoterap\u00e9utica, medicamentos antidepresivos y cambios en el estilo de vida.",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    19,
+                    48,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La ansiedad es una respuesta emocional caracterizada por sentimientos de preocupaci\u00f3n, nerviosismo y miedo. Los s\u00edntomas pueden incluir inquietud, tensi\u00f3n muscular, dificultad para dormir y ataques de p\u00e1nico. El tratamiento puede incluir terapia psicoterap\u00e9utica, medicamentos ansiol\u00edticos y t\u00e9cnicas de manejo del estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad pulmonar obstructiva cr\u00f3nica (EPOC) es una enfermedad pulmonar cr\u00f3nica que causa dificultad para respirar debido a una obstrucci\u00f3n del flujo de aire en los pulmones. Los s\u00edntomas pueden incluir tos cr\u00f3nica, producci\u00f3n de esputo, falta de aliento y fatiga. El tratamiento puede incluir medicamentos para abrir las v\u00edas respiratorias, terapia de rehabilitaci\u00f3n pulmonar y cambios en el estilo de vida.",
+        {
+            "entities": [
+                [
+                    170,
+                    178,
+                    "Organos"
+                ],
+                [
+                    208,
+                    211,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de estr\u00e9s agudo (TEA) es una respuesta psicol\u00f3gica inmediata a un evento traum\u00e1tico. Los s\u00edntomas pueden incluir ansiedad intensa, intrusi\u00f3n de recuerdos o pesadillas del evento traum\u00e1tico, evitaci\u00f3n de lugares o situaciones relacionadas y cambios en el estado de \u00e1nimo y el comportamiento. El tratamiento puede incluir terapia psicoterap\u00e9utica y t\u00e9cnicas de manejo del estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    28,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    126,
+                    134,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La migra\u00f1a es un tipo de dolor de cabeza recurrente e intenso que puede ir acompa\u00f1ado de n\u00e1useas, v\u00f3mitos y sensibilidad a la luz y al sonido. Los s\u00edntomas pueden variar, pero generalmente se caracterizan por un dolor puls\u00e1til en un lado de la cabeza. El tratamiento puede incluir medicamentos para aliviar los s\u00edntomas y t\u00e9cnicas de manejo del estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    25,
+                    40,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    89,
+                    96,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    98,
+                    105,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad celiaca es una enfermedad autoinmune en la cual el consumo de gluten provoca da\u00f1o en el intestino delgado. Los s\u00edntomas pueden incluir diarrea, p\u00e9rdida de peso, fatiga, dolor abdominal y erupci\u00f3n cut\u00e1nea. El tratamiento implica seguir una dieta libre de gluten de por vida.",
+        {
+            "entities": [
+                [
+                    102,
+                    119,
+                    "Organos"
+                ],
+                [
+                    149,
+                    156,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La anemia es una afecci\u00f3n en la cual el cuerpo no produce suficientes gl\u00f3bulos rojos sanos. Los s\u00edntomas pueden incluir fatiga, debilidad, palidez, falta de aliento y mareos. El tratamiento puede incluir suplementos de hierro, cambios en la dieta y, en casos graves, transfusiones de sangre.",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La hipertensi\u00f3n arterial es una afecci\u00f3n en la cual la presi\u00f3n arterial en las arterias es persistentemente alta. Los s\u00edntomas pueden ser silenciosos, pero la hipertensi\u00f3n no controlada puede aumentar el riesgo de enfermedades cardiovasculares. El tratamiento puede incluir cambios en el estilo de vida y medicamentos para controlar la presi\u00f3n arterial.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    79,
+                    87,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La osteoporosis es una enfermedad en la que los huesos se vuelven fr\u00e1giles y propensos a fracturas. Los s\u00edntomas pueden incluir dolor \u00f3seo, p\u00e9rdida de altura y encorvamiento de la columna vertebral. El tratamiento puede incluir cambios en la dieta, suplementos de calcio y vitamina D, medicamentos y ejercicio regular.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "Enfermedad"
+                ],
+                [
+                    48,
+                    54,
+                    "Organos"
+                ],
+                [
+                    264,
+                    270,
+                    "Medicina"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de Alzheimer es una enfermedad neurodegenerativa que afecta la memoria, el pensamiento y el comportamiento. Los s\u00edntomas pueden incluir p\u00e9rdida de memoria, dificultad para realizar tareas cotidianas, cambios en el estado de \u00e1nimo y desorientaci\u00f3n. No existe cura para la enfermedad de Alzheimer, pero el tratamiento puede ayudar a controlar los s\u00edntomas y mejorar la calidad de vida.",
+        {
+            "entities": [
+                [
+                    17,
+                    26,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    299,
+                    308,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno bipolar es un trastorno del estado de \u00e1nimo caracterizado por cambios extremos en el estado de \u00e1nimo, que pueden alternar entre episodios de man\u00eda y depresi\u00f3n. Los s\u00edntomas pueden incluir aumento de la energ\u00eda, euforia, irritabilidad, tristeza, p\u00e9rdida de inter\u00e9s en actividades y problemas para dormir. El tratamiento puede incluir medicamentos estabilizadores del estado de \u00e1nimo y terapia psicoterap\u00e9utica.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Enfermedad"
+                ],
+                [
+                    27,
+                    56,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    162,
+                    171,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La endometriosis es una afecci\u00f3n en la cual el tejido que normalmente recubre el \u00fatero crece fuera de \u00e9l, causando dolor y otros s\u00edntomas. Los s\u00edntomas pueden incluir dolor p\u00e9lvico intenso, per\u00edodos menstruales dolorosos, dolor durante las relaciones sexuales y dificultad para quedar embarazada. El tratamiento puede incluir medicamentos para aliviar el dolor, terapia hormonal y cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    3,
+                    16,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    81,
+                    86,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La artritis reumatoide es una enfermedad autoinmune que afecta las articulaciones, causando dolor, inflamaci\u00f3n y rigidez. Los s\u00edntomas pueden incluir dolor articular, hinchaz\u00f3n, rigidez matutina y deformidad en las articulaciones. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n y el dolor, terapia f\u00edsica y cambios en el estilo de vida.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    67,
+                    81,
+                    "Organos"
+                ],
+                [
+                    215,
+                    229,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La esquizofrenia es un trastorno mental cr\u00f3nico que afecta la forma en que una persona piensa, siente y se comporta. Los s\u00edntomas pueden incluir alucinaciones, delirios, falta de motivaci\u00f3n, dificultad para concentrarse y cambios en el comportamiento. El tratamiento puede incluir medicamentos antipsic\u00f3ticos, terapia psicoterap\u00e9utica y apoyo en el manejo de la enfermedad.",
+        {
+            "entities": [
+                [
+                    3,
+                    16,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad inflamatoria intestinal (EII) es un t\u00e9rmino que se utiliza para describir afecciones cr\u00f3nicas que causan inflamaci\u00f3n en el tracto gastrointestinal. Los dos tipos principales de EII son la enfermedad de Crohn y la colitis ulcerosa. Los s\u00edntomas pueden incluir diarrea cr\u00f3nica, dolor abdominal, p\u00e9rdida de peso y fatiga. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n y cambios en la dieta.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Enfermedad"
+                ],
+                [
+                    227,
+                    234,
+                    "Enfermedad"
+                ],
+                [
+                    273,
+                    280,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El glaucoma es una enfermedad ocular que causa da\u00f1o al nervio \u00f3ptico y puede llevar a la p\u00e9rdida de la visi\u00f3n. Los s\u00edntomas pueden ser silenciosos en las etapas iniciales, pero a medida que la enfermedad progresa, pueden incluir visi\u00f3n borrosa, p\u00e9rdida de la visi\u00f3n perif\u00e9rica y halos alrededor de las luces. El tratamiento puede incluir medicamentos, cirug\u00eda l\u00e1ser y cirug\u00eda convencional.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de la conducta alimentaria (TCA) es un trastorno mental que se caracteriza por una relaci\u00f3n anormal con la comida y una preocupaci\u00f3n excesiva por el peso y la forma corporal. Los tipos m\u00e1s comunes de TCA son la anorexia nerviosa, la bulimia nerviosa y el trastorno por atrac\u00f3n. Los s\u00edntomas pueden incluir restricci\u00f3n alimentaria severa, atracones compulsivos, purgas y preocupaci\u00f3n excesiva por la apariencia f\u00edsica. El tratamiento puede incluir terapia psicoterap\u00e9utica, apoyo nutricional y en algunos casos, hospitalizaci\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    39,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    224,
+                    232,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    246,
+                    253,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad renal cr\u00f3nica (ERC) es una condici\u00f3n en la cual los ri\u00f1ones no funcionan adecuadamente y no pueden filtrar los desechos y el exceso de l\u00edquido de la sangre. Los s\u00edntomas pueden ser silenciosos en las etapas iniciales, pero a medida que la enfermedad progresa, pueden incluir fatiga, hinchaz\u00f3n, cambios en la micci\u00f3n y problemas de concentraci\u00f3n. El tratamiento puede incluir cambios en la dieta, medicamentos y terapia de reemplazo renal, como la di\u00e1lisis o el trasplante de ri\u00f1\u00f3n.",
+        {
+            "entities": [
+                [
+                    3,
+                    27,
+                    "Enfermedad"
+                ],
+                [
+                    66,
+                    73,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de ansiedad generalizada (TAG) es un trastorno de salud mental caracterizado por preocupaci\u00f3n y ansiedad excesiva en diversas situaciones. Los s\u00edntomas pueden incluir inquietud, irritabilidad, dificultad para concentrarse, tensi\u00f3n muscular y problemas para conciliar el sue\u00f1o. El tratamiento puede incluir terapia psicoterap\u00e9utica, t\u00e9cnicas de manejo del estr\u00e9s y en algunos casos, medicamentos.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    109,
+                    117,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad pulmonar intersticial (EPI) es un grupo de enfermedades pulmonares cr\u00f3nicas que causan inflamaci\u00f3n y cicatrizaci\u00f3n del tejido pulmonar. Los s\u00edntomas pueden incluir dificultad para respirar, tos seca, fatiga y p\u00e9rdida de peso. El tratamiento puede incluir medicamentos para reducir la inflamaci\u00f3n y mejorar la funci\u00f3n pulmonar, as\u00ed como terapia de rehabilitaci\u00f3n pulmonar.",
+        {
+            "entities": [
+                [
+                    204,
+                    207,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de estr\u00e9s postraum\u00e1tico (TEPT) es un trastorno de salud mental que puede desarrollarse despu\u00e9s de experimentar o presenciar un evento traum\u00e1tico. Los s\u00edntomas pueden incluir flashbacks, pesadillas, evitaci\u00f3n de lugares o situaciones relacionadas con el trauma, y alteraciones en el estado de \u00e1nimo y el sue\u00f1o. El tratamiento puede incluir terapia psicoterap\u00e9utica y medicamentos para reducir los s\u00edntomas.",
+        {
+            "entities": [
+                [
+                    3,
+                    36,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad del h\u00edgado graso no alcoh\u00f3lico (EHGNA) es una afecci\u00f3n en la cual se acumula grasa en el h\u00edgado, sin que est\u00e9 relacionada con el consumo excesivo de alcohol. Los s\u00edntomas pueden ser silenciosos en las etapas iniciales, pero a medida que la enfermedad progresa, pueden incluir fatiga, dolor abdominal, p\u00e9rdida de peso inexplicada y aumento del tama\u00f1o del h\u00edgado. El tratamiento puede incluir cambios en la dieta, p\u00e9rdida de peso, ejercicio regular y medicamentos para controlar los factores de riesgo.",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "Organos"
+                ],
+                [
+                    103,
+                    109,
+                    "Organos"
+                ],
+                [
+                    368,
+                    374,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de personalidad borderline (TPB), tambi\u00e9n conocido como trastorno l\u00edmite de la personalidad, es un trastorno de salud mental caracterizado por inestabilidad emocional, relaciones interpersonales intensas y cambios bruscos en la identidad y el comportamiento. Los s\u00edntomas pueden incluir miedo al abandono, impulsividad, cambios r\u00e1pidos de humor y comportamientos autodestructivos. El tratamiento puede incluir terapia psicoterap\u00e9utica y en algunos casos, medicamentos.",
+        {
+            "entities": [
+                [
+                    69,
+                    104,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La esclerosis m\u00faltiple (EM) es una enfermedad autoinmune cr\u00f3nica que afecta el sistema nervioso central. Los s\u00edntomas pueden variar ampliamente, pero pueden incluir fatiga, problemas de coordinaci\u00f3n, dificultad para caminar, debilidad muscular y problemas de visi\u00f3n. No existe cura para la esclerosis m\u00faltiple, pero el tratamiento puede ayudar a controlar los s\u00edntomas y retrasar la progresi\u00f3n de la enfermedad.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    290,
+                    309,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de sue\u00f1o m\u00e1s com\u00fan es el insomnio, que se caracteriza por dificultades para conciliar el sue\u00f1o, mantenerse dormido o despertarse temprano en la ma\u00f1ana. Los s\u00edntomas pueden incluir cansancio, falta de energ\u00eda, dificultad para concentrarse y cambios de humor. El tratamiento puede incluir terapia cognitivo-conductual, cambios en el estilo de vida y medicamentos para mejorar la calidad del sue\u00f1o.",
+        {
+            "entities": [
+                [
+                    3,
+                    21,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    38,
+                    46,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de Lyme es una enfermedad infecciosa transmitida por garrapatas. Los s\u00edntomas pueden incluir erupci\u00f3n cut\u00e1nea, fiebre, fatiga, dolores musculares y articulares, y en etapas avanzadas, problemas neurol\u00f3gicos y card\u00edacos. El tratamiento temprano con antibi\u00f3ticos es fundamental para prevenir complicaciones a largo plazo.",
+        {
+            "entities": [
+                [
+                    125,
+                    131,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de la ves\u00edcula biliar es una afecci\u00f3n en la que se forman c\u00e1lculos en la ves\u00edcula biliar o la inflamaci\u00f3n de la ves\u00edcula biliar. Los s\u00edntomas pueden incluir dolor abdominal, n\u00e1useas, v\u00f3mitos y fiebre. El tratamiento puede incluir cambios en la dieta, medicamentos para controlar los s\u00edntomas y, en algunos casos, cirug\u00eda para extirpar la ves\u00edcula biliar.",
+        {
+            "entities": [
+                [
+                    20,
+                    35,
+                    "Organos"
+                ],
+                [
+                    87,
+                    102,
+                    "Organos"
+                ],
+                [
+                    126,
+                    141,
+                    "Organos"
+                ],
+                [
+                    188,
+                    195,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    197,
+                    204,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    207,
+                    213,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    352,
+                    367,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de p\u00e1nico es un trastorno de ansiedad caracterizado por ataques de p\u00e1nico recurrentes e inesperados. Los s\u00edntomas pueden incluir palpitaciones, dificultad para respirar, mareos, sudoraci\u00f3n y miedo intenso. El tratamiento puede incluir terapia psicoterap\u00e9utica, t\u00e9cnicas de relajaci\u00f3n y, en algunos casos, medicamentos para controlar los s\u00edntomas.",
+        {
+            "entities": [
+                [
+                    3,
+                    22,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    29,
+                    50,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La neuropat\u00eda perif\u00e9rica es un trastorno que afecta los nervios perif\u00e9ricos y puede causar dolor, debilidad y entumecimiento en las manos y los pies. Los s\u00edntomas pueden variar, pero pueden incluir sensaci\u00f3n de ardor, hormigueo y p\u00e9rdida de sensibilidad. El tratamiento puede incluir medicamentos para aliviar el dolor, terapia f\u00edsica y cambios en la dieta.",
+        {
+            "entities": [
+                [
+                    56,
+                    63,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de estr\u00e9s agudo (TEA) es una respuesta psicol\u00f3gica inmediata a un evento traum\u00e1tico. Los s\u00edntomas pueden incluir ansiedad intensa, intrusi\u00f3n de recuerdos o pesadillas del evento traum\u00e1tico, evitaci\u00f3n de lugares o situaciones relacionadas y cambios en el estado de \u00e1nimo y el comportamiento. El tratamiento puede incluir terapia psicoterap\u00e9utica y t\u00e9cnicas de manejo del estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    28,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    126,
+                    134,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La migra\u00f1a es un tipo de dolor de cabeza recurrente e intenso que puede ir acompa\u00f1ado de n\u00e1useas, v\u00f3mitos y sensibilidad a la luz y al sonido. Los s\u00edntomas pueden variar, pero generalmente se caracterizan por un dolor puls\u00e1til en un lado de la cabeza. El tratamiento puede incluir medicamentos para aliviar los s\u00edntomas y t\u00e9cnicas de manejo del estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    25,
+                    40,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    89,
+                    96,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    98,
+                    105,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad celiaca es una enfermedad autoinmune en la cual el consumo de gluten provoca da\u00f1o en el intestino delgado. Los s\u00edntomas pueden incluir diarrea, p\u00e9rdida de peso, fatiga, dolor abdominal y erupci\u00f3n cut\u00e1nea. El tratamiento implica seguir una dieta libre de gluten de por vida.",
+        {
+            "entities": [
+                [
+                    102,
+                    119,
+                    "Organos"
+                ],
+                [
+                    149,
+                    156,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La anemia es una afecci\u00f3n en la cual el cuerpo no produce suficientes gl\u00f3bulos rojos sanos. Los s\u00edntomas pueden incluir fatiga, debilidad, palidez, falta de aliento y mareos. El tratamiento puede incluir suplementos de hierro, cambios en la dieta y, en casos graves, transfusiones de sangre.",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La hipertensi\u00f3n arterial es una afecci\u00f3n en la cual la presi\u00f3n arterial en las arterias es m\u00e1s alta de lo normal. Los s\u00edntomas pueden ser silenciosos, pero a largo plazo puede aumentar el riesgo de enfermedades card\u00edacas y accidentes cerebrovasculares. El tratamiento puede incluir cambios en el estilo de vida y medicamentos para controlar la presi\u00f3n arterial.",
+        {
+            "entities": [
+                [
+                    3,
+                    24,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    79,
+                    87,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La osteoporosis es una enfermedad en la que los huesos se vuelven fr\u00e1giles y propensos a fracturas. Los s\u00edntomas pueden incluir dolor \u00f3seo, p\u00e9rdida de altura y encorvamiento de la columna vertebral. El tratamiento puede incluir cambios en la dieta, suplementos de calcio y vitamina D, medicamentos y ejercicio regular.",
+        {
+            "entities": [
+                [
+                    3,
+                    15,
+                    "Enfermedad"
+                ],
+                [
+                    48,
+                    54,
+                    "Organos"
+                ],
+                [
+                    264,
+                    270,
+                    "Medicina"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de Alzheimer es una enfermedad neurodegenerativa que afecta la memoria, el pensamiento y el comportamiento. Los s\u00edntomas pueden incluir p\u00e9rdida de memoria, dificultad para realizar tareas cotidianas, cambios en el estado de \u00e1nimo y desorientaci\u00f3n. No existe cura para la enfermedad de Alzheimer, pero el tratamiento puede ayudar a controlar los s\u00edntomas y mejorar la calidad de vida.",
+        {
+            "entities": [
+                [
+                    17,
+                    26,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    299,
+                    308,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno bipolar es un trastorno del estado de \u00e1nimo caracterizado por cambios extremos en el estado de \u00e1nimo, que pueden alternar entre episodios de man\u00eda y depresi\u00f3n. Los s\u00edntomas pueden incluir aumento de la energ\u00eda, euforia, irritabilidad, tristeza, p\u00e9rdida de inter\u00e9s en actividades y problemas para dormir. El tratamiento puede incluir medicamentos estabilizadores del estado de \u00e1nimo y terapia psicoterap\u00e9utica.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Enfermedad"
+                ],
+                [
+                    27,
+                    56,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    162,
+                    171,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La endometriosis es una afecci\u00f3n en la cual el tejido que normalmente recubre el \u00fatero crece fuera de \u00e9l, causando dolor y otros s\u00edntomas. Los s\u00edntomas pueden incluir dolor p\u00e9lvico intenso, per\u00edodos menstruales dolorosos, dolor durante las relaciones sexuales y dificultad para quedar embarazada. El tratamiento puede incluir medicamentos para aliviar el dolor, terapia hormonal y cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    3,
+                    16,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    81,
+                    86,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La artritis reumatoide es una enfermedad autoinmune que afecta las articulaciones, causando dolor, inflamaci\u00f3n y rigidez. Los s\u00edntomas pueden incluir dolor articular, hinchaz\u00f3n, rigidez matutina y deformidad en las articulaciones. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n y el dolor, terapia f\u00edsica y cambios en el estilo de vida.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    67,
+                    81,
+                    "Organos"
+                ],
+                [
+                    215,
+                    229,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La esquizofrenia es un trastorno mental cr\u00f3nico que afecta la forma en que una persona piensa, siente y se comporta. Los s\u00edntomas pueden incluir alucinaciones, delirios, falta de motivaci\u00f3n, dificultad para concentrarse y cambios en el comportamiento. El tratamiento puede incluir medicamentos antipsic\u00f3ticos, terapia psicoterap\u00e9utica y apoyo en el manejo de la enfermedad.",
+        {
+            "entities": [
+                [
+                    3,
+                    16,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad inflamatoria intestinal (EII) es un t\u00e9rmino que se utiliza para describir afecciones cr\u00f3nicas que causan inflamaci\u00f3n en el tracto gastrointestinal. Los dos tipos principales de EII son la enfermedad de Crohn y la colitis ulcerosa. Los s\u00edntomas pueden incluir diarrea cr\u00f3nica, dolor abdominal, p\u00e9rdida de peso y fatiga. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n, cambios en la dieta y, en casos graves, cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Enfermedad"
+                ],
+                [
+                    227,
+                    234,
+                    "Enfermedad"
+                ],
+                [
+                    273,
+                    280,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El asma es una enfermedad cr\u00f3nica que afecta las v\u00edas respiratorias, causando dificultad para respirar, sibilancias, opresi\u00f3n en el pecho y tos. Los s\u00edntomas pueden ser desencadenados por al\u00e9rgenos o factores ambientales. El tratamiento puede incluir medicamentos para controlar la inflamaci\u00f3n y dilatar las v\u00edas respiratorias, as\u00ed como evitar los desencadenantes.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    140,
+                    143,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La diabetes mellitus es una enfermedad cr\u00f3nica en la que el cuerpo no produce o no utiliza adecuadamente la insulina, lo que resulta en niveles altos de glucosa en la sangre. Los s\u00edntomas pueden incluir sed excesiva, micci\u00f3n frecuente, fatiga, p\u00e9rdida de peso inexplicada y heridas que tardan en sanar. El tratamiento puede incluir cambios en la dieta, ejercicio, medicamentos y control regular de la glucosa en la sangre.",
+        {
+            "entities": [
+                [
+                    3,
+                    20,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La depresi\u00f3n es un trastorno del estado de \u00e1nimo caracterizado por una sensaci\u00f3n persistente de tristeza, p\u00e9rdida de inter\u00e9s en actividades y cambios en el apetito y el sue\u00f1o. Los s\u00edntomas pueden variar, pero pueden incluir falta de energ\u00eda, dificultad para concentrarse, sentimientos de culpa y pensamientos suicidas. El tratamiento puede incluir terapia psicoterap\u00e9utica, medicamentos antidepresivos y apoyo social.",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    19,
+                    48,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad card\u00edaca coronaria es una afecci\u00f3n en la que se acumula placa en las arterias coronarias, lo que puede provocar estrechamiento y obstrucci\u00f3n del flujo sangu\u00edneo al coraz\u00f3n. Los s\u00edntomas pueden incluir dolor en el pecho, dificultad para respirar, fatiga y mareos. El tratamiento puede incluir cambios en el estilo de vida, medicamentos y procedimientos m\u00e9dicos, como angioplastia o cirug\u00eda de bypass coronario.",
+        {
+            "entities": [
+                [
+                    83,
+                    91,
+                    "Organos"
+                ],
+                [
+                    178,
+                    185,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad pulmonar obstructiva cr\u00f3nica (EPOC) es una enfermedad pulmonar cr\u00f3nica que dificulta la respiraci\u00f3n. Los s\u00edntomas pueden incluir tos cr\u00f3nica, dificultad para respirar, producci\u00f3n excesiva de mucosidad y fatiga. El tratamiento puede incluir cambios en el estilo de vida, medicamentos para abrir las v\u00edas respiratorias y terapia de rehabilitaci\u00f3n pulmonar.",
+        {
+            "entities": [
+                [
+                    143,
+                    146,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno del espectro autista (TEA) es un trastorno del neurodesarrollo que afecta la comunicaci\u00f3n, la interacci\u00f3n social y el comportamiento. Los s\u00edntomas pueden variar, pero pueden incluir dificultades en la comunicaci\u00f3n verbal y no verbal, dificultades sociales, comportamientos repetitivos y sensibilidad sensorial. El tratamiento puede incluir terapia psicoterap\u00e9utica, educaci\u00f3n especializada y apoyo familiar.",
+        {
+            "entities": [
+                [
+                    3,
+                    33,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad renal cr\u00f3nica (ERC) es una enfermedad progresiva en la que los ri\u00f1ones no funcionan adecuadamente. Los s\u00edntomas pueden incluir fatiga, retenci\u00f3n de l\u00edquidos, cambios en la micci\u00f3n, picaz\u00f3n en la piel y aumento de la presi\u00f3n arterial. El tratamiento puede incluir cambios en la dieta, medicamentos para controlar la presi\u00f3n arterial y la di\u00e1lisis o el trasplante de ri\u00f1\u00f3n en casos avanzados.",
+        {
+            "entities": [
+                [
+                    3,
+                    27,
+                    "Enfermedad"
+                ],
+                [
+                    77,
+                    84,
+                    "Organos"
+                ],
+                [
+                    209,
+                    213,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "La obesidad es una enfermedad cr\u00f3nica caracterizada por un exceso de grasa corporal. Los s\u00edntomas pueden incluir aumento de peso, dificultad para perder peso, fatiga y problemas de movilidad. El tratamiento puede incluir cambios en la dieta, ejercicio regular, modificaciones del estilo de vida y, en algunos casos, cirug\u00eda bari\u00e1trica.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de la tiroides es una afecci\u00f3n en la que la gl\u00e1ndula tiroides no produce o produce demasiada hormona tiroidea. Los s\u00edntomas pueden variar seg\u00fan el tipo de trastorno de la tiroides, pero pueden incluir fatiga, cambios en el peso, sensibilidad al fr\u00edo o al calor, y problemas con la piel y el cabello. El tratamiento puede incluir medicamentos para regular los niveles hormonales y, en algunos casos, cirug\u00eda.",
+        {
+            "entities": [
+                [
+                    20,
+                    28,
+                    "Organos"
+                ],
+                [
+                    67,
+                    75,
+                    "Organos"
+                ],
+                [
+                    185,
+                    193,
+                    "Organos"
+                ],
+                [
+                    295,
+                    299,
+                    "Organos"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de ansiedad generalizada (TAG) es un trastorno de ansiedad cr\u00f3nico caracterizado por preocupaciones y temores excesivos en diversas \u00e1reas de la vida. Los s\u00edntomas pueden incluir inquietud, irritabilidad, dificultad para concentrarse y problemas para conciliar el sue\u00f1o. El tratamiento puede incluir terapia psicoterap\u00e9utica y, en algunos casos, medicamentos para controlar los s\u00edntomas.",
+        {
+            "entities": [
+                [
+                    3,
+                    37,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    50,
+                    71,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "El c\u00e1ncer es un t\u00e9rmino que se refiere a un grupo de enfermedades en las cuales las c\u00e9lulas anormales se dividen sin control y pueden invadir otros tejidos. Los s\u00edntomas y el tratamiento del c\u00e1ncer pueden variar seg\u00fan el tipo y la etapa de la enfermedad. Las opciones de tratamiento pueden incluir cirug\u00eda, radioterapia, quimioterapia, inmunoterapia y terapia dirigida.",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "Enfermedad"
+                ],
+                [
+                    191,
+                    197,
+                    "Enfermedad"
+                ]
+            ]
+        }
+    ],
+    [
+        "El trastorno de estr\u00e9s postraum\u00e1tico (TEPT) es un trastorno de ansiedad que puede ocurrir despu\u00e9s de haber experimentado o presenciado un evento traum\u00e1tico. Los s\u00edntomas pueden incluir flashbacks, pesadillas, evitaci\u00f3n de situaciones relacionadas con el trauma, cambios de humor y problemas para dormir. El tratamiento puede incluir terapia psicoterap\u00e9utica, medicamentos y t\u00e9cnicas de manejo del estr\u00e9s.",
+        {
+            "entities": [
+                [
+                    3,
+                    36,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    50,
+                    71,
+                    "Condici\u00f3n Medica"
+                ]
+            ]
+        }
+    ],
+    [
+        "La enfermedad de la ves\u00edcula biliar es una afecci\u00f3n en la que se forman c\u00e1lculos en la ves\u00edcula biliar o la inflamaci\u00f3n de la ves\u00edcula biliar. Los s\u00edntomas pueden incluir dolor abdominal, n\u00e1useas, v\u00f3mitos y fiebre. El tratamiento puede incluir cambios en la dieta, medicamentos para controlar los s\u00edntomas y, en casos graves, cirug\u00eda para remover la ves\u00edcula biliar.",
+        {
+            "entities": [
+                [
+                    20,
+                    35,
+                    "Organos"
+                ],
+                [
+                    87,
+                    102,
+                    "Organos"
+                ],
+                [
+                    126,
+                    141,
+                    "Organos"
+                ],
+                [
+                    188,
+                    195,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    197,
+                    204,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    207,
+                    213,
+                    "Condici\u00f3n Medica"
+                ],
+                [
+                    350,
+                    365,
+                    "Organos"
+                ]
+            ]
+        }
+    ]
+]
