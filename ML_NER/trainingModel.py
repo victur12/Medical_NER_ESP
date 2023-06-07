@@ -46,7 +46,8 @@ entities = []
 TRAIN_DATA = []
 for text in data:
     resultados = test_model_Traning(nlp, text)
-    TRAIN_DATA.append(resultados)
+    if resultados != None:
+        TRAIN_DATA.append(resultados)
 
 
 save_data("TRAIN_DATA_MEJORADA.json", TRAIN_DATA)

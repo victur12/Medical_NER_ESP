@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.texto {
+    font-family: "Roboto", sans-serif;
+    width: 94%;
+    height: 50px;
+    border: none;
+    outline: none;
+    position: relative;
+    margin: auto;
+    margin-top: 10%;
+    border-bottom: 2px solid rgb(198, 148, 245);
+    vertical-align: text-bottom;
+}
+
+input::placeholder{
+    color: #505050;
+    font-size: 20px;
+    height: 100%;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    vertical-align: text-bottom;
+}
+.container {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+
+/* CSS */
+button {
+    background-color: rgb(198, 148, 245);
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+        sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 10px 16px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color 100ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  
+}
+
+button:hover,
+button:focus {
+    background-color: #580d2a;
+}
+
+.texto-spacy{
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}

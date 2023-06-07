@@ -5505,6 +5505,54 @@
     },
     {
         "label": "Enfermedad",
+        "pattern": "Diabetes tipo "
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "diabetes tipo "
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "DIABETES TIPO "
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Diabetes tipo "
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Diabetes tipo "
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "diabetes tipo "
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "DIABETES TIPO "
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Diabetes tipo "
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Diabetes gestacional"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "diabetes gestacional"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "DIABETES GESTACIONAL"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Diabetes gestacional"
+    },
+    {
+        "label": "Enfermedad",
         "pattern": "Hipertensi\u00f3n arterial"
     },
     {
@@ -5518,6 +5566,70 @@
     {
         "label": "Enfermedad",
         "pattern": "Hipertensi\u00f3n arterial"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "covid"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "covid"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "COVID"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Covid"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Coronavirus"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "coronavirus"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "CORONAVIRUS"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Coronavirus"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "SARS-CoV-"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "sars-cov-"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "SARS-COV-"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Sars-cov-"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "COVID-"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "covid-"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "COVID-"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Covid-"
     },
     {
         "label": "Enfermedad",
@@ -5566,6 +5678,134 @@
     {
         "label": "Enfermedad",
         "pattern": "Neumon\u00eda"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Bronquitis"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "bronquitis"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "BRONQUITIS"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Bronquitis"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Asma"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "asma"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "ASMA"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Asma"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Enfermedad pulmonar obstructiva cr\u00f3nica EPOC"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "enfermedad pulmonar obstructiva cr\u00f3nica epoc"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "ENFERMEDAD PULMONAR OBSTRUCTIVA CR\u00d3NICA EPOC"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "Enfermedad pulmonar obstructiva cr\u00f3nica epoc"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de pulm\u00f3n"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "c\u00e1ncer de pulm\u00f3n"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00c1NCER DE PULM\u00d3N"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de pulm\u00f3n"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de mama"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "c\u00e1ncer de mama"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00c1NCER DE MAMA"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de mama"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de pr\u00f3stata"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "c\u00e1ncer de pr\u00f3stata"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00c1NCER DE PR\u00d3STATA"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de pr\u00f3stata"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de colon"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "c\u00e1ncer de colon"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00c1NCER DE COLON"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de colon"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de est\u00f3mago"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "c\u00e1ncer de est\u00f3mago"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00c1NCER DE EST\u00d3MAGO"
+    },
+    {
+        "label": "Enfermedad",
+        "pattern": "C\u00e1ncer de est\u00f3mago"
     },
     {
         "label": "Enfermedad",

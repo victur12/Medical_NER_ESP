@@ -28,7 +28,7 @@ def train(data, iterations):
                 example = Example.from_dict(nlp.make_doc(text), annotations)
                 nlp.update(
                     [example],
-                    drop=0.4,
+                    drop=0.3,
                     sgd=optimizer,
                     losses=losses
                 )
@@ -38,6 +38,6 @@ def train(data, iterations):
 TRAIN_DATA = load_data("TRAIN_DATA_MEJORADA.json")
 print(type(TRAIN_DATA))
 
-nlp = train(TRAIN_DATA, 47)
+nlp = train(TRAIN_DATA, 30)
 
-nlp.to_disk("MedicinaNER_MODEL_MEJORADA")
+nlp.to_disk("../MedicinaNER_MODEL_MEJORADA")

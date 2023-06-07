@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 ]
 
 SPACY_SETTINGS = {
-    'model': 'E:/UAQ/Octavo/Topico II/Proyecto/MedicinaNER_MODEL_MEJORADA'  # Cambia el modelo según tus necesidades
+    'model': '../MedicinaNER_MODEL_MEJORADA'  # Cambia el modelo según tus necesidades
 }
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
